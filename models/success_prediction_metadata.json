@@ -1,0 +1,43 @@
+{
+  "model_type": "success_prediction",
+  "algorithm": "Logistic Regression + Calibrated Classifier",
+  "components": [
+    "success_prediction_model.pkl",
+    "success_prediction_preprocessor.pkl",
+    "success_prediction_features.json"
+  ],
+  "created_at": "2025-09-19T22:43:43.681441",
+  "description": "Calibrated probability model for internship selection prediction",
+  "performance": {
+    "roc_auc": 0.6004,
+    "brier_score": 0.001,
+    "training_samples": 100003
+  },
+  "features": {
+    "numeric_features": [
+      "hybrid_score",
+      "cf_score",
+      "hybrid_v2",
+      "cgpa",
+      "stipend",
+      "score_consistency",
+      "location_match"
+    ],
+    "categorical_features": [
+      "tier",
+      "university",
+      "domain",
+      "location",
+      "location_internship",
+      "duration",
+      "cgpa_tier",
+      "stipend_tier"
+    ],
+    "text_features": [
+      "skills",
+      "interests",
+      "description",
+      "required_skills"
+    ]
+  }
+}

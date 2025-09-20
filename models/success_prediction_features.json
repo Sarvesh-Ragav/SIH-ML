@@ -1,0 +1,27 @@
+{
+  "numeric_features": [
+    "hybrid_score",
+    "cf_score",
+    "hybrid_v2",
+    "cgpa",
+    "stipend",
+    "score_consistency",
+    "location_match"
+  ],
+  "categorical_features": [
+    "tier",
+    "university",
+    "domain",
+    "location",
+    "location_internship",
+    "duration",
+    "cgpa_tier",
+    "stipend_tier"
+  ],
+  "text_features": [
+    "skills",
+    "interests",
+    "description",
+    "required_skills"
+  ]
+}

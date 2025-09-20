@@ -1,0 +1,14 @@
+{
+  "datasets": [
+    "students.csv",
+    "internships.csv",
+    "interactions.csv",
+    "outcomes.csv",
+    "final_recommendations.csv",
+    "fair_recommendations.csv",
+    "success_predictions.csv"
+  ],
+  "created_at": "2025-09-19T22:43:43.746599",
+  "description": "Processed datasets for PMIS API consumption",
+  "total_files": 7
+}

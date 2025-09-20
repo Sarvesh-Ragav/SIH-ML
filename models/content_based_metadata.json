@@ -1,0 +1,17 @@
+{
+  "model_type": "content_based_filtering",
+  "components": [
+    "tfidf_matrix_internships.npy",
+    "tfidf_matrix_students.npy",
+    "feature_names_internships.npy",
+    "feature_names_students.npy",
+    "content_based_scores.csv"
+  ],
+  "created_at": "2025-09-19T22:43:41.684049",
+  "description": "TF-IDF based content filtering with cosine similarity",
+  "features": {
+    "tfidf_vectorization": true,
+    "cosine_similarity": true,
+    "metadata_features": true
+  }
+}

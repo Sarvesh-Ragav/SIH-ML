@@ -1,0 +1,18 @@
+{
+  "model_type": "collaborative_filtering",
+  "algorithm": "ALS (Alternating Least Squares)",
+  "components": [
+    "user_factors.npy",
+    "item_factors.npy",
+    "id_mappings.json",
+    "collaborative_scores.csv"
+  ],
+  "created_at": "2025-09-19T22:43:41.791765",
+  "description": "Matrix factorization using implicit feedback",
+  "parameters": {
+    "factors": 50,
+    "regularization": 0.01,
+    "iterations": 50,
+    "implicit": true
+  }
+}

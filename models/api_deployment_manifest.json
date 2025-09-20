@@ -1,0 +1,182 @@
+{
+  "pmis_api_deployment": {
+    "version": "1.0.0",
+    "created_at": "2025-09-19T22:43:43.746712",
+    "description": "Complete PMIS recommendation system for API deployment",
+    "components": {
+      "models": {
+        "content_based": {
+          "model_type": "content_based_filtering",
+          "components": [
+            "tfidf_matrix_internships.npy",
+            "tfidf_matrix_students.npy",
+            "feature_names_internships.npy",
+            "feature_names_students.npy",
+            "content_based_scores.csv"
+          ],
+          "created_at": "2025-09-19T22:43:41.684049",
+          "description": "TF-IDF based content filtering with cosine similarity",
+          "features": {
+            "tfidf_vectorization": true,
+            "cosine_similarity": true,
+            "metadata_features": true
+          }
+        },
+        "collaborative_filtering": {
+          "model_type": "collaborative_filtering",
+          "algorithm": "ALS (Alternating Least Squares)",
+          "components": [
+            "user_factors.npy",
+            "item_factors.npy",
+            "id_mappings.json",
+            "collaborative_scores.csv"
+          ],
+          "created_at": "2025-09-19T22:43:41.791765",
+          "description": "Matrix factorization using implicit feedback",
+          "parameters": {
+            "factors": 50,
+            "regularization": 0.01,
+            "iterations": 50,
+            "implicit": true
+          }
+        },
+        "success_prediction": {
+          "model_type": "success_prediction",
+          "algorithm": "Logistic Regression + Calibrated Classifier",
+          "components": [
+            "success_prediction_model.pkl",
+            "success_prediction_preprocessor.pkl",
+            "success_prediction_features.json"
+          ],
+          "created_at": "2025-09-19T22:43:43.681441",
+          "description": "Calibrated probability model for internship selection prediction",
+          "performance": {
+            "roc_auc": 0.6004,
+            "brier_score": 0.001,
+            "training_samples": 100003
+          },
+          "features": {
+            "numeric_features": [
+              "hybrid_score",
+              "cf_score",
+              "hybrid_v2",
+              "cgpa",
+              "stipend",
+              "score_consistency",
+              "location_match"
+            ],
+            "categorical_features": [
+              "tier",
+              "university",
+              "domain",
+              "location",
+              "location_internship",
+              "duration",
+              "cgpa_tier",
+              "stipend_tier"
+            ],
+            "text_features": [
+              "skills",
+              "interests",
+              "description",
+              "required_skills"
+            ]
+          }
+        },
+        "fairness_reranking": {
+          "model_type": "fairness_reranking",
+          "algorithm": "Group-Aware Greedy Re-Ranking",
+          "parameters": {
+            "K": 10,
+            "protected_attributes": [
+              "rural_urban",
+              "college_tier",
+              "gender"
+            ],
+            "target_shares": {
+              "rural_urban": 0.3,
+              "college_tier": 0.3,
+              "gender": 0.2
+            },
+            "constraint_order": [
+              "rural_urban",
+              "college_tier",
+              "gender"
+            ]
+          },
+          "created_at": "2025-09-19T22:43:43.698239",
+          "description": "Group-aware re-ranking for fair recommendations",
+          "implementation": "Rule-based algorithm with configurable constraints"
+        },
+        "explainable_ai": {
+          "model_type": "explainable_ai",
+          "components": [
+            "skills_courses_mapping.csv",
+            "explainable_ai_config.json"
+          ],
+          "explanation_categories": [
+            "Skill Match",
+            "Domain Fit",
+            "Academic Performance",
+            "Success Prediction",
+            "Fairness/Diversity",
+            "Generic/Other"
+          ],
+          "skill_extraction": {
+            "normalization_mappings": {
+              "javascript": "js",
+              "python": "py",
+              "machine learning": "ml",
+              "artificial intelligence": "ai",
+              "data science": "ds",
+              "web development": "webdev",
+              "database": "db",
+              "react": "reactjs",
+              "node": "nodejs"
+            }
+          },
+          "course_suggestion_strategy": "fuzzy_matching_with_fallback",
+          "created_at": "2025-09-19T22:43:43.699948",
+          "description": "Dynamic explanation generation with skill gap analysis"
+        }
+      },
+      "datasets": {
+        "datasets": [
+          "students.csv",
+          "internships.csv",
+          "interactions.csv",
+          "outcomes.csv",
+          "final_recommendations.csv",
+          "fair_recommendations.csv",
+          "success_predictions.csv"
+        ],
+        "created_at": "2025-09-19T22:43:43.746599",
+        "description": "Processed datasets for PMIS API consumption",
+        "total_files": 7
+      }
+    },
+    "api_endpoints": {
+      "content_based_recommendations": "/api/recommendations/content",
+      "collaborative_recommendations": "/api/recommendations/collaborative",
+      "hybrid_recommendations": "/api/recommendations/hybrid",
+      "success_prediction": "/api/recommendations/success",
+      "fair_recommendations": "/api/recommendations/fair",
+      "explainable_recommendations": "/api/recommendations/explained"
+    },
+    "deployment_requirements": {
+      "python_version": ">=3.8",
+      "key_dependencies": [
+        "pandas>=1.3.0",
+        "numpy>=1.21.0",
+        "scikit-learn>=1.0.0",
+        "joblib>=1.0.0",
+        "flask>=2.0.0"
+      ]
+    },
+    "performance_specs": {
+      "max_response_time_ms": 300,
+      "concurrent_users": 1000,
+      "recommendations_per_request": 10
+    }
+  }
+}
