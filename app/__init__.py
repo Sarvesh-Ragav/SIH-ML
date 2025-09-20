@@ -1,0 +1,9 @@
+"""
+ML Recommendations API Package
+=============================
+
+A modular FastAPI application for ML-powered internship recommendations.
+"""
+
+__version__ = "1.0.0"
+__author__ = "Backend Engineering Team"
