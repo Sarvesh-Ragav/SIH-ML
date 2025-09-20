@@ -1,0 +1,201 @@
+internship_id,title,company,domain,description,required_skills,location,duration,stipend,is_active
+INT_0001,internship 1,company 1,web development,description for internship 1,"node.js, node.js, sql",pune,3 months,30000,True
+INT_0002,internship 2,company 2,mobile apps,description for internship 2,"python, python",chennai,6 months,15000,True
+INT_0003,internship 3,company 3,ai/ml,description for internship 3,"sql, node.js, react",chennai,6 months,15000,True
+INT_0004,internship 4,company 4,mobile apps,description for internship 4,"machine learning, machine learning",delhi,2 months,15000,True
+INT_0005,internship 5,company 5,mobile apps,description for internship 5,"machine learning, sql",bangalore,3 months,30000,True
+INT_0006,internship 6,company 6,software development,description for internship 6,"sql, sql, machine learning",bangalore,2 months,30000,True
+INT_0007,internship 7,company 7,ai/ml,description for internship 7,"machine learning, python, python",bangalore,6 months,25000,True
+INT_0008,internship 8,company 8,ai/ml,description for internship 8,"java, python, sql",hyderabad,2 months,0,True
+INT_0009,internship 9,company 9,ai/ml,description for internship 9,"python, python, java",mumbai,2 months,25000,True
+INT_0010,internship 10,company 10,mobile apps,description for internship 10,"node.js, java",hyderabad,3 months,25000,False
+INT_0011,internship 11,company 11,web development,description for internship 11,"machine learning, java",mumbai,3 months,30000,True
+INT_0012,internship 12,company 12,ai/ml,description for internship 12,"python, machine learning, machine learning",bangalore,6 months,15000,True
+INT_0013,internship 13,company 13,mobile apps,description for internship 13,"java, python",bangalore,2 months,10000,True
+INT_0014,internship 14,company 14,software development,description for internship 14,"node.js, machine learning, react",hyderabad,2 months,0,False
+INT_0015,internship 15,company 15,web development,description for internship 15,"sql, python",hyderabad,2 months,30000,False
+INT_0016,internship 16,company 16,software development,description for internship 16,"sql, sql",mumbai,6 months,15000,True
+INT_0017,internship 17,company 17,web development,description for internship 17,"sql, machine learning, node.js",chennai,6 months,10000,True
+INT_0018,internship 18,company 18,mobile apps,description for internship 18,"python, machine learning, sql",mumbai,3 months,10000,True
+INT_0019,internship 19,company 19,data science,description for internship 19,"machine learning, node.js",hyderabad,3 months,30000,True
+INT_0020,internship 20,company 20,web development,description for internship 20,"machine learning, node.js, sql",pune,3 months,20000,False
+INT_0021,internship 21,company 21,software development,description for internship 21,"node.js, python, sql",hyderabad,2 months,0,True
+INT_0022,internship 22,company 22,mobile apps,description for internship 22,"react, java",pune,2 months,10000,True
+INT_0023,internship 23,company 23,web development,description for internship 23,"node.js, java, java",delhi,3 months,30000,True
+INT_0024,internship 24,company 24,data science,description for internship 24,"sql, react, python",hyderabad,2 months,30000,True
+INT_0025,internship 25,company 25,data science,description for internship 25,"python, machine learning, python",delhi,3 months,15000,True
+INT_0026,internship 26,company 26,ai/ml,description for internship 26,"react, machine learning, sql",chennai,6 months,20000,False
+INT_0027,internship 27,company 27,ai/ml,description for internship 27,"python, machine learning",mumbai,3 months,0,False
+INT_0028,internship 28,company 28,software development,description for internship 28,"sql, node.js",pune,6 months,25000,True
+INT_0029,internship 29,company 29,web development,description for internship 29,"node.js, node.js",mumbai,2 months,15000,True
+INT_0030,internship 30,company 30,web development,description for internship 30,"node.js, node.js, react",delhi,3 months,10000,True
+INT_0031,internship 31,company 31,ai/ml,description for internship 31,"node.js, sql",pune,2 months,10000,True
+INT_0032,internship 32,company 32,web development,description for internship 32,"java, react",mumbai,6 months,15000,True
+INT_0033,internship 33,company 33,web development,description for internship 33,"python, machine learning, python",hyderabad,6 months,30000,True
+INT_0034,internship 34,company 34,data science,description for internship 34,"machine learning, react",bangalore,6 months,10000,False
+INT_0035,internship 35,company 35,ai/ml,description for internship 35,"sql, machine learning, sql",delhi,2 months,20000,True
+INT_0036,internship 36,company 36,mobile apps,description for internship 36,"python, python, machine learning",mumbai,2 months,0,True
+INT_0037,internship 37,company 37,ai/ml,description for internship 37,"node.js, react, node.js",delhi,2 months,20000,True
+INT_0038,internship 38,company 38,mobile apps,description for internship 38,"node.js, sql",delhi,2 months,10000,True
+INT_0039,internship 39,company 39,data science,description for internship 39,"python, react, react",pune,6 months,25000,True
+INT_0040,internship 40,company 40,software development,description for internship 40,"node.js, react",pune,6 months,0,True
+INT_0041,internship 41,company 41,web development,description for internship 41,"sql, machine learning",bangalore,3 months,0,True
+INT_0042,internship 42,company 42,data science,description for internship 42,"machine learning, react",hyderabad,3 months,15000,True
+INT_0043,internship 43,company 43,web development,description for internship 43,"python, sql",delhi,2 months,15000,True
+INT_0044,internship 44,company 44,software development,description for internship 44,"java, python, java",mumbai,6 months,25000,True
+INT_0045,internship 45,company 45,software development,description for internship 45,"node.js, java",chennai,6 months,30000,True
+INT_0046,internship 46,company 46,data science,description for internship 46,"node.js, java",delhi,6 months,0,True
+INT_0047,internship 47,company 47,software development,description for internship 47,"node.js, java, sql",delhi,3 months,25000,True
+INT_0048,internship 48,company 48,mobile apps,description for internship 48,"java, java, python",bangalore,3 months,15000,True
+INT_0049,internship 49,company 49,software development,description for internship 49,"python, python, sql",hyderabad,6 months,15000,True
+INT_0050,internship 50,company 50,web development,description for internship 50,"react, java, java",chennai,6 months,0,True
+INT_0051,internship 51,company 51,web development,description for internship 51,"java, python",pune,6 months,20000,True
+INT_0052,internship 52,company 52,web development,description for internship 52,"react, machine learning, java",pune,3 months,10000,True
+INT_0053,internship 53,company 53,web development,description for internship 53,"python, machine learning",mumbai,6 months,15000,False
+INT_0054,internship 54,company 54,mobile apps,description for internship 54,"machine learning, python",chennai,6 months,30000,True
+INT_0055,internship 55,company 55,ai/ml,description for internship 55,"node.js, node.js, machine learning",pune,2 months,30000,True
+INT_0056,internship 56,company 56,data science,description for internship 56,"machine learning, java",mumbai,2 months,15000,True
+INT_0057,internship 57,company 57,web development,description for internship 57,"node.js, sql, python",hyderabad,3 months,20000,True
+INT_0058,internship 58,company 58,software development,description for internship 58,"node.js, react, node.js",mumbai,6 months,20000,False
+INT_0059,internship 59,company 59,web development,description for internship 59,"java, node.js, python",pune,6 months,25000,True
+INT_0060,internship 60,company 60,software development,description for internship 60,"java, node.js, node.js",bangalore,2 months,30000,True
+INT_0061,internship 61,company 61,software development,description for internship 61,"machine learning, react",bangalore,3 months,25000,True
+INT_0062,internship 62,company 62,web development,description for internship 62,"react, machine learning",bangalore,2 months,30000,True
+INT_0063,internship 63,company 63,mobile apps,description for internship 63,"machine learning, react, machine learning",pune,2 months,10000,True
+INT_0064,internship 64,company 64,software development,description for internship 64,"react, machine learning, node.js",bangalore,2 months,10000,False
+INT_0065,internship 65,company 65,software development,description for internship 65,"sql, machine learning",chennai,2 months,0,True
+INT_0066,internship 66,company 66,web development,description for internship 66,"react, java, machine learning",hyderabad,6 months,25000,True
+INT_0067,internship 67,company 67,software development,description for internship 67,"node.js, sql, python",mumbai,6 months,15000,False
+INT_0068,internship 68,company 68,software development,description for internship 68,"sql, machine learning, java",mumbai,2 months,25000,True
+INT_0069,internship 69,company 69,web development,description for internship 69,"java, react",pune,3 months,15000,True
+INT_0070,internship 70,company 70,web development,description for internship 70,"react, node.js, python",bangalore,3 months,20000,True
+INT_0071,internship 71,company 71,data science,description for internship 71,"react, python, java",bangalore,3 months,25000,False
+INT_0072,internship 72,company 72,mobile apps,description for internship 72,"python, java, node.js",delhi,3 months,20000,True
+INT_0073,internship 73,company 73,mobile apps,description for internship 73,"python, react, react",hyderabad,2 months,10000,True
+INT_0074,internship 74,company 74,software development,description for internship 74,"react, react",chennai,6 months,10000,True
+INT_0075,internship 75,company 75,mobile apps,description for internship 75,"react, sql, machine learning",mumbai,3 months,0,True
+INT_0076,internship 76,company 76,software development,description for internship 76,"sql, react, node.js",delhi,2 months,25000,True
+INT_0077,internship 77,company 77,data science,description for internship 77,"react, node.js",delhi,3 months,20000,True
+INT_0078,internship 78,company 78,web development,description for internship 78,"react, python, node.js",pune,3 months,15000,True
+INT_0079,internship 79,company 79,web development,description for internship 79,"node.js, machine learning, react",mumbai,2 months,10000,True
+INT_0080,internship 80,company 80,web development,description for internship 80,"java, java, react",pune,6 months,10000,True
+INT_0081,internship 81,company 81,mobile apps,description for internship 81,"machine learning, python",chennai,6 months,15000,True
+INT_0082,internship 82,company 82,data science,description for internship 82,"node.js, react, java",delhi,2 months,20000,True
+INT_0083,internship 83,company 83,mobile apps,description for internship 83,"node.js, react, machine learning",delhi,6 months,20000,True
+INT_0084,internship 84,company 84,mobile apps,description for internship 84,"machine learning, java, java",hyderabad,2 months,25000,True
+INT_0085,internship 85,company 85,data science,description for internship 85,"java, python",chennai,2 months,25000,True
+INT_0086,internship 86,company 86,data science,description for internship 86,"react, react, machine learning",delhi,2 months,30000,True
+INT_0087,internship 87,company 87,data science,description for internship 87,"java, python, machine learning",chennai,6 months,30000,True
+INT_0088,internship 88,company 88,data science,description for internship 88,"sql, machine learning, machine learning",mumbai,2 months,0,False
+INT_0089,internship 89,company 89,web development,description for internship 89,"sql, machine learning, python",bangalore,3 months,10000,True
+INT_0090,internship 90,company 90,ai/ml,description for internship 90,"react, sql",delhi,6 months,25000,True
+INT_0091,internship 91,company 91,ai/ml,description for internship 91,"react, machine learning",hyderabad,6 months,20000,True
+INT_0092,internship 92,company 92,data science,description for internship 92,"python, python",mumbai,6 months,15000,False
+INT_0093,internship 93,company 93,ai/ml,description for internship 93,"java, sql, machine learning",chennai,6 months,20000,True
+INT_0094,internship 94,company 94,ai/ml,description for internship 94,"react, machine learning",pune,3 months,10000,True
+INT_0095,internship 95,company 95,data science,description for internship 95,"node.js, java",mumbai,6 months,30000,True
+INT_0096,internship 96,company 96,ai/ml,description for internship 96,"sql, java",delhi,6 months,20000,True
+INT_0097,internship 97,company 97,mobile apps,description for internship 97,"python, java",chennai,2 months,0,False
+INT_0098,internship 98,company 98,software development,description for internship 98,"react, java, java",bangalore,6 months,10000,True
+INT_0099,internship 99,company 99,software development,description for internship 99,"node.js, java, sql",mumbai,3 months,30000,True
+INT_0100,internship 100,company 100,data science,description for internship 100,"machine learning, java",delhi,3 months,15000,True
+INT_0101,internship 101,company 101,web development,description for internship 101,"java, react",hyderabad,3 months,30000,False
+INT_0102,internship 102,company 102,data science,description for internship 102,"react, machine learning",pune,3 months,0,False
+INT_0103,internship 103,company 103,web development,description for internship 103,"react, react",chennai,6 months,10000,True
+INT_0104,internship 104,company 104,software development,description for internship 104,"machine learning, java",mumbai,6 months,15000,False
+INT_0105,internship 105,company 105,data science,description for internship 105,"python, sql",mumbai,3 months,0,False
+INT_0106,internship 106,company 106,mobile apps,description for internship 106,"sql, machine learning",bangalore,3 months,30000,True
+INT_0107,internship 107,company 107,ai/ml,description for internship 107,"python, node.js, react",bangalore,6 months,0,True
+INT_0108,internship 108,company 108,web development,description for internship 108,"python, react, python",hyderabad,3 months,10000,True
+INT_0109,internship 109,company 109,ai/ml,description for internship 109,"python, node.js",pune,2 months,25000,False
+INT_0110,internship 110,company 110,ai/ml,description for internship 110,"python, node.js",hyderabad,3 months,0,True
+INT_0111,internship 111,company 111,data science,description for internship 111,"python, node.js, react",delhi,3 months,0,False
+INT_0112,internship 112,company 112,ai/ml,description for internship 112,"sql, python",delhi,2 months,30000,True
+INT_0113,internship 113,company 113,mobile apps,description for internship 113,"machine learning, react, python",hyderabad,2 months,30000,True
+INT_0114,internship 114,company 114,ai/ml,description for internship 114,"machine learning, python",pune,6 months,15000,True
+INT_0115,internship 115,company 115,data science,description for internship 115,"machine learning, node.js",hyderabad,6 months,30000,True
+INT_0116,internship 116,company 116,mobile apps,description for internship 116,"machine learning, sql",pune,2 months,20000,False
+INT_0117,internship 117,company 117,software development,description for internship 117,"react, react, sql",pune,2 months,10000,False
+INT_0118,internship 118,company 118,ai/ml,description for internship 118,"python, machine learning, sql",chennai,6 months,10000,False
+INT_0119,internship 119,company 119,data science,description for internship 119,"machine learning, react",pune,3 months,25000,True
+INT_0120,internship 120,company 120,software development,description for internship 120,"python, react",bangalore,2 months,25000,True
+INT_0121,internship 121,company 121,software development,description for internship 121,"java, java",pune,6 months,10000,True
+INT_0122,internship 122,company 122,web development,description for internship 122,"node.js, java",pune,3 months,25000,True
+INT_0123,internship 123,company 123,mobile apps,description for internship 123,"sql, react",pune,2 months,15000,True
+INT_0124,internship 124,company 124,ai/ml,description for internship 124,"sql, java",delhi,3 months,30000,True
+INT_0125,internship 125,company 125,data science,description for internship 125,"machine learning, python",bangalore,6 months,10000,True
+INT_0126,internship 126,company 126,web development,description for internship 126,"java, machine learning, python",bangalore,2 months,25000,True
+INT_0127,internship 127,company 127,mobile apps,description for internship 127,"node.js, node.js",hyderabad,3 months,10000,False
+INT_0128,internship 128,company 128,web development,description for internship 128,"java, python",chennai,2 months,20000,False
+INT_0129,internship 129,company 129,mobile apps,description for internship 129,"sql, java, java",pune,3 months,0,True
+INT_0130,internship 130,company 130,mobile apps,description for internship 130,"react, react",mumbai,6 months,30000,True
+INT_0131,internship 131,company 131,ai/ml,description for internship 131,"sql, react, python",chennai,6 months,10000,True
+INT_0132,internship 132,company 132,mobile apps,description for internship 132,"machine learning, python, python",chennai,2 months,0,True
+INT_0133,internship 133,company 133,web development,description for internship 133,"machine learning, machine learning",bangalore,3 months,25000,False
+INT_0134,internship 134,company 134,mobile apps,description for internship 134,"machine learning, sql, react",chennai,2 months,0,False
+INT_0135,internship 135,company 135,ai/ml,description for internship 135,"node.js, sql, java",pune,2 months,30000,True
+INT_0136,internship 136,company 136,ai/ml,description for internship 136,"sql, node.js, sql",pune,3 months,10000,True
+INT_0137,internship 137,company 137,web development,description for internship 137,"react, java",delhi,3 months,20000,True
+INT_0138,internship 138,company 138,software development,description for internship 138,"node.js, java, machine learning",pune,3 months,25000,True
+INT_0139,internship 139,company 139,software development,description for internship 139,"react, python, python",pune,6 months,10000,True
+INT_0140,internship 140,company 140,mobile apps,description for internship 140,"react, machine learning",bangalore,2 months,30000,False
+INT_0141,internship 141,company 141,data science,description for internship 141,"python, machine learning, python",pune,2 months,25000,True
+INT_0142,internship 142,company 142,mobile apps,description for internship 142,"python, node.js",delhi,6 months,15000,True
+INT_0143,internship 143,company 143,web development,description for internship 143,"node.js, java",mumbai,3 months,0,False
+INT_0144,internship 144,company 144,web development,description for internship 144,"react, react, react",bangalore,6 months,30000,True
+INT_0145,internship 145,company 145,web development,description for internship 145,"react, node.js",mumbai,6 months,15000,True
+INT_0146,internship 146,company 146,web development,description for internship 146,"sql, machine learning",bangalore,6 months,10000,True
+INT_0147,internship 147,company 147,web development,description for internship 147,"machine learning, sql",hyderabad,2 months,20000,True
+INT_0148,internship 148,company 148,ai/ml,description for internship 148,"machine learning, python",chennai,6 months,25000,True
+INT_0149,internship 149,company 149,software development,description for internship 149,"python, python, node.js",hyderabad,2 months,0,True
+INT_0150,internship 150,company 150,web development,description for internship 150,"python, react",pune,2 months,25000,True
+INT_0151,internship 151,company 151,data science,description for internship 151,"node.js, sql, python",mumbai,2 months,10000,False
+INT_0152,internship 152,company 152,data science,description for internship 152,"machine learning, java",pune,3 months,25000,True
+INT_0153,internship 153,company 153,data science,description for internship 153,"node.js, machine learning, machine learning",chennai,2 months,0,False
+INT_0154,internship 154,company 154,data science,description for internship 154,"java, machine learning",bangalore,2 months,10000,False
+INT_0155,internship 155,company 155,ai/ml,description for internship 155,"java, java, machine learning",chennai,3 months,25000,True
+INT_0156,internship 156,company 156,data science,description for internship 156,"machine learning, machine learning, react",delhi,2 months,20000,False
+INT_0157,internship 157,company 157,web development,description for internship 157,"machine learning, sql",chennai,6 months,30000,True
+INT_0158,internship 158,company 158,mobile apps,description for internship 158,"python, python, python",delhi,6 months,10000,False
+INT_0159,internship 159,company 159,data science,description for internship 159,"machine learning, react",chennai,2 months,30000,True
+INT_0160,internship 160,company 160,ai/ml,description for internship 160,"react, react, node.js",delhi,3 months,10000,True
+INT_0161,internship 161,company 161,ai/ml,description for internship 161,"react, node.js",mumbai,6 months,20000,True
+INT_0162,internship 162,company 162,data science,description for internship 162,"sql, react, python",pune,3 months,30000,False
+INT_0163,internship 163,company 163,mobile apps,description for internship 163,"java, node.js, java",pune,3 months,15000,True
+INT_0164,internship 164,company 164,data science,description for internship 164,"react, react",hyderabad,6 months,0,True
+INT_0165,internship 165,company 165,ai/ml,description for internship 165,"python, node.js",pune,3 months,15000,False
+INT_0166,internship 166,company 166,software development,description for internship 166,"java, python",bangalore,6 months,25000,True
+INT_0167,internship 167,company 167,web development,description for internship 167,"react, java",chennai,3 months,20000,True
+INT_0168,internship 168,company 168,ai/ml,description for internship 168,"python, node.js",hyderabad,6 months,15000,True
+INT_0169,internship 169,company 169,data science,description for internship 169,"sql, python",bangalore,2 months,10000,True
+INT_0170,internship 170,company 170,web development,description for internship 170,"python, java",bangalore,6 months,25000,True
+INT_0171,internship 171,company 171,data science,description for internship 171,"sql, python",delhi,6 months,25000,False
+INT_0172,internship 172,company 172,data science,description for internship 172,"node.js, machine learning",pune,6 months,15000,True
+INT_0173,internship 173,company 173,software development,description for internship 173,"react, react",mumbai,6 months,15000,True
+INT_0174,internship 174,company 174,web development,description for internship 174,"sql, react, react",mumbai,3 months,20000,True
+INT_0175,internship 175,company 175,web development,description for internship 175,"react, java",hyderabad,2 months,0,False
+INT_0176,internship 176,company 176,software development,description for internship 176,"sql, python, react",mumbai,6 months,15000,False
+INT_0177,internship 177,company 177,ai/ml,description for internship 177,"python, node.js, python",chennai,3 months,15000,True
+INT_0178,internship 178,company 178,data science,description for internship 178,"react, react",mumbai,2 months,30000,False
+INT_0179,internship 179,company 179,mobile apps,description for internship 179,"node.js, python, python",hyderabad,2 months,10000,True
+INT_0180,internship 180,company 180,data science,description for internship 180,"java, machine learning, java",mumbai,2 months,30000,False
+INT_0181,internship 181,company 181,data science,description for internship 181,"java, node.js, node.js",chennai,2 months,30000,True
+INT_0182,internship 182,company 182,ai/ml,description for internship 182,"sql, java",delhi,6 months,25000,False
+INT_0183,internship 183,company 183,data science,description for internship 183,"python, node.js, machine learning",hyderabad,6 months,0,True
+INT_0184,internship 184,company 184,software development,description for internship 184,"node.js, node.js",delhi,3 months,10000,True
+INT_0185,internship 185,company 185,software development,description for internship 185,"python, python",delhi,3 months,20000,True
+INT_0186,internship 186,company 186,web development,description for internship 186,"react, react, node.js",delhi,3 months,20000,True
+INT_0187,internship 187,company 187,mobile apps,description for internship 187,"sql, sql, node.js",bangalore,2 months,15000,True
+INT_0188,internship 188,company 188,data science,description for internship 188,"machine learning, java, node.js",pune,2 months,15000,True
+INT_0189,internship 189,company 189,data science,description for internship 189,"java, java, node.js",bangalore,6 months,20000,True
+INT_0190,internship 190,company 190,ai/ml,description for internship 190,"sql, sql",pune,2 months,15000,True
+INT_0191,internship 191,company 191,software development,description for internship 191,"java, machine learning",delhi,2 months,0,True
+INT_0192,internship 192,company 192,mobile apps,description for internship 192,"node.js, python",hyderabad,2 months,30000,True
+INT_0193,internship 193,company 193,web development,description for internship 193,"machine learning, node.js, java",pune,3 months,15000,True
+INT_0194,internship 194,company 194,software development,description for internship 194,"python, react",chennai,3 months,25000,False
+INT_0195,internship 195,company 195,web development,description for internship 195,"machine learning, java",chennai,6 months,15000,True
+INT_0196,internship 196,company 196,ai/ml,description for internship 196,"python, java, python",mumbai,2 months,10000,True
+INT_0197,internship 197,company 197,ai/ml,description for internship 197,"machine learning, react, java",pune,2 months,0,True
+INT_0198,internship 198,company 198,data science,description for internship 198,"react, java, react",hyderabad,6 months,10000,True
+INT_0199,internship 199,company 199,mobile apps,description for internship 199,"sql, sql, sql",bangalore,2 months,10000,False
+INT_0200,internship 200,company 200,web development,description for internship 200,"python, sql",delhi,2 months,25000,True

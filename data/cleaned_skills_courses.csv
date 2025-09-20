@@ -1,0 +1,25 @@
+skill,course_name,platform,duration,difficulty,rating,url
+python,python course 1,swayam,8 weeks,advanced,4.7,https://edx.com/course/python-1
+python,python course 2,edx,10 weeks,intermediate,4.2,https://udemy.com/course/python-2
+python,python course 3,udemy,11 weeks,beginner,4.6,https://udemy.com/course/python-3
+java,java course 1,edx,5 weeks,intermediate,4.2,https://swayam.com/course/java-1
+java,java course 2,edx,4 weeks,intermediate,4.5,https://swayam.com/course/java-2
+java,java course 3,nptel,4 weeks,advanced,4.6,https://coursera.com/course/java-3
+sql,sql course 1,swayam,7 weeks,advanced,4.5,https://udemy.com/course/sql-1
+sql,sql course 2,swayam,10 weeks,beginner,4.0,https://udemy.com/course/sql-2
+sql,sql course 3,edx,4 weeks,advanced,4.0,https://nptel.com/course/sql-3
+machine learning,machine learning course 1,swayam,9 weeks,intermediate,4.4,https://coursera.com/course/machine-learning-1
+machine learning,machine learning course 2,edx,5 weeks,advanced,4.7,https://swayam.com/course/machine-learning-2
+machine learning,machine learning course 3,edx,11 weeks,advanced,4.2,https://nptel.com/course/machine-learning-3
+react,react course 1,swayam,5 weeks,intermediate,4.4,https://coursera.com/course/react-1
+react,react course 2,swayam,9 weeks,beginner,5.0,https://coursera.com/course/react-2
+react,react course 3,swayam,5 weeks,intermediate,4.9,https://swayam.com/course/react-3
+node.js,node.js course 1,nptel,9 weeks,beginner,4.4,https://coursera.com/course/node.js-1
+node.js,node.js course 2,edx,11 weeks,intermediate,5.0,https://swayam.com/course/node.js-2
+node.js,node.js course 3,swayam,8 weeks,beginner,4.3,https://edx.com/course/node.js-3
+data analysis,data analysis course 1,nptel,4 weeks,advanced,4.4,https://nptel.com/course/data-analysis-1
+data analysis,data analysis course 2,swayam,11 weeks,advanced,4.8,https://nptel.com/course/data-analysis-2
+data analysis,data analysis course 3,udemy,6 weeks,beginner,4.6,https://coursera.com/course/data-analysis-3
+deep learning,deep learning course 1,coursera,4 weeks,advanced,4.9,https://swayam.com/course/deep-learning-1
+deep learning,deep learning course 2,coursera,4 weeks,advanced,4.3,https://edx.com/course/deep-learning-2
+deep learning,deep learning course 3,udemy,7 weeks,intermediate,4.9,https://nptel.com/course/deep-learning-3

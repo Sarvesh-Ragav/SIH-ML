@@ -1,0 +1,501 @@
+student_id,name,email,university,tier,cgpa,skills,interests,location,preferred_location
+STU_0001,student 1,student1@university.edu,bits pilani,Tier-2,7.04,"sql, web development",ai/ml,chennai,bangalore
+STU_0002,student 2,student2@university.edu,vit chennai,Tier-3,8.25,"web development, machine learning, web development, python",ai/ml,chennai,delhi
+STU_0003,student 3,student3@university.edu,nit trichy,Tier-2,7.76,"machine learning, machine learning","data science, data science",pune,chennai
+STU_0004,student 4,student4@university.edu,vit chennai,Tier-3,9.18,"data analysis, machine learning, sql, web development","mobile apps, ai/ml",bangalore,chennai
+STU_0005,student 5,student5@university.edu,vit chennai,Tier-2,8.95,"data analysis, java, python","ai/ml, mobile apps",chennai,pune
+STU_0006,student 6,student6@university.edu,iit bombay,Tier-1,7.53,"web development, machine learning, java, web development",mobile apps,delhi,delhi
+STU_0007,student 7,student7@university.edu,nit trichy,Tier-3,7.28,"sql, data analysis","software development, web development",bangalore,mumbai
+STU_0008,student 8,student8@university.edu,nit trichy,Tier-1,7.64,"web development, sql",web development,mumbai,delhi
+STU_0009,student 9,student9@university.edu,nit trichy,Tier-2,8.27,"python, python",web development,chennai,bangalore
+STU_0010,student 10,student10@university.edu,vit chennai,Tier-3,7.3,"data analysis, machine learning, java, machine learning","web development, software development",bangalore,delhi
+STU_0011,student 11,student11@university.edu,bits pilani,Tier-3,8.37,"java, sql","data science, mobile apps",delhi,delhi
+STU_0012,student 12,student12@university.edu,nit trichy,Tier-2,7.73,"data analysis, java, python, java","web development, software development",pune,mumbai
+STU_0013,student 13,student13@university.edu,vit chennai,Tier-2,8.16,"python, sql",web development,hyderabad,bangalore
+STU_0014,student 14,student14@university.edu,iit bombay,Tier-2,7.81,"machine learning, data analysis, machine learning","data science, data science",hyderabad,hyderabad
+STU_0015,student 15,student15@university.edu,bits pilani,Tier-2,7.38,"data analysis, web development, machine learning, java",software development,delhi,hyderabad
+STU_0016,student 16,student16@university.edu,iit bombay,Tier-2,9.35,"machine learning, java, web development","software development, data science",delhi,chennai
+STU_0017,student 17,student17@university.edu,bits pilani,Tier-2,8.79,"web development, data analysis","data science, software development",hyderabad,pune
+STU_0018,student 18,student18@university.edu,vit chennai,Tier-3,6.92,"data analysis, java",mobile apps,pune,delhi
+STU_0019,student 19,student19@university.edu,iit delhi,Tier-3,9.11,"java, sql",ai/ml,bangalore,chennai
+STU_0020,student 20,student20@university.edu,bits pilani,Tier-3,7.96,"data analysis, java, java",mobile apps,hyderabad,mumbai
+STU_0021,student 21,student21@university.edu,iit bombay,Tier-1,9.18,"java, python","web development, web development",delhi,hyderabad
+STU_0022,student 22,student22@university.edu,vit chennai,Tier-2,8.9,"python, data analysis, machine learning, python",ai/ml,chennai,delhi
+STU_0023,student 23,student23@university.edu,bits pilani,Tier-1,7.78,"sql, data analysis",data science,mumbai,mumbai
+STU_0024,student 24,student24@university.edu,iit delhi,Tier-2,6.57,"web development, python",web development,pune,pune
+STU_0025,student 25,student25@university.edu,iit delhi,Tier-2,7.31,"data analysis, machine learning, java","web development, data science",pune,mumbai
+STU_0026,student 26,student26@university.edu,nit trichy,Tier-3,8.12,"data analysis, python, python",data science,chennai,delhi
+STU_0027,student 27,student27@university.edu,nit trichy,Tier-2,8.4,"python, web development","software development, software development",chennai,pune
+STU_0028,student 28,student28@university.edu,iit bombay,Tier-1,7.27,"web development, web development",software development,delhi,mumbai
+STU_0029,student 29,student29@university.edu,bits pilani,Tier-1,6.92,"python, sql, machine learning, java",web development,hyderabad,pune
+STU_0030,student 30,student30@university.edu,bits pilani,Tier-3,9.0,"data analysis, data analysis","data science, ai/ml",bangalore,delhi
+STU_0031,student 31,student31@university.edu,nit trichy,Tier-2,9.45,"sql, data analysis, java","data science, software development",pune,delhi
+STU_0032,student 32,student32@university.edu,bits pilani,Tier-1,8.08,"web development, python, sql","ai/ml, software development",pune,pune
+STU_0033,student 33,student33@university.edu,bits pilani,Tier-1,7.02,"sql, python",mobile apps,chennai,bangalore
+STU_0034,student 34,student34@university.edu,iit delhi,Tier-3,7.32,"data analysis, python, web development","mobile apps, mobile apps",hyderabad,chennai
+STU_0035,student 35,student35@university.edu,nit trichy,Tier-1,6.56,"python, machine learning, java, web development","software development, software development",pune,mumbai
+STU_0036,student 36,student36@university.edu,vit chennai,Tier-3,9.24,"machine learning, web development, python, python","mobile apps, ai/ml",bangalore,mumbai
+STU_0037,student 37,student37@university.edu,nit trichy,Tier-3,6.85,"python, sql","mobile apps, web development",chennai,bangalore
+STU_0038,student 38,student38@university.edu,vit chennai,Tier-1,8.23,"java, sql, sql",ai/ml,bangalore,bangalore
+STU_0039,student 39,student39@university.edu,iit delhi,Tier-1,7.32,"data analysis, java, java","data science, data science",hyderabad,bangalore
+STU_0040,student 40,student40@university.edu,iit bombay,Tier-3,8.16,"python, sql, web development","ai/ml, mobile apps",pune,hyderabad
+STU_0041,student 41,student41@university.edu,bits pilani,Tier-2,8.45,"java, data analysis, machine learning","ai/ml, web development",mumbai,hyderabad
+STU_0042,student 42,student42@university.edu,iit delhi,Tier-2,8.99,"web development, java","data science, web development",pune,pune
+STU_0043,student 43,student43@university.edu,bits pilani,Tier-3,7.12,"machine learning, web development",web development,hyderabad,hyderabad
+STU_0044,student 44,student44@university.edu,iit bombay,Tier-3,6.53,"web development, machine learning, machine learning","ai/ml, software development",pune,delhi
+STU_0045,student 45,student45@university.edu,iit bombay,Tier-3,6.91,"sql, data analysis, data analysis, java","data science, web development",pune,pune
+STU_0046,student 46,student46@university.edu,iit delhi,Tier-3,9.2,"sql, web development, web development, sql",mobile apps,delhi,mumbai
+STU_0047,student 47,student47@university.edu,iit bombay,Tier-2,9.12,"web development, machine learning, python, machine learning",software development,pune,chennai
+STU_0048,student 48,student48@university.edu,vit chennai,Tier-1,8.29,"sql, machine learning, web development, web development",software development,pune,delhi
+STU_0049,student 49,student49@university.edu,iit bombay,Tier-3,8.3,"sql, java, data analysis","web development, web development",bangalore,mumbai
+STU_0050,student 50,student50@university.edu,bits pilani,Tier-2,8.5,"machine learning, web development",mobile apps,mumbai,mumbai
+STU_0051,student 51,student51@university.edu,bits pilani,Tier-2,7.03,"sql, web development, machine learning",mobile apps,bangalore,pune
+STU_0052,student 52,student52@university.edu,bits pilani,Tier-3,9.24,"java, machine learning, data analysis, java","data science, ai/ml",bangalore,bangalore
+STU_0053,student 53,student53@university.edu,bits pilani,Tier-1,7.76,"python, web development, machine learning",mobile apps,chennai,bangalore
+STU_0054,student 54,student54@university.edu,vit chennai,Tier-2,7.65,"python, data analysis, sql","software development, software development",delhi,delhi
+STU_0055,student 55,student55@university.edu,nit trichy,Tier-1,8.06,"machine learning, java, web development, python",mobile apps,bangalore,bangalore
+STU_0056,student 56,student56@university.edu,iit delhi,Tier-2,6.64,"web development, java, machine learning","web development, data science",hyderabad,mumbai
+STU_0057,student 57,student57@university.edu,bits pilani,Tier-1,7.0,"data analysis, python, machine learning",data science,hyderabad,bangalore
+STU_0058,student 58,student58@university.edu,iit bombay,Tier-1,8.71,"java, sql",web development,pune,hyderabad
+STU_0059,student 59,student59@university.edu,bits pilani,Tier-1,6.75,"data analysis, data analysis","software development, mobile apps",chennai,bangalore
+STU_0060,student 60,student60@university.edu,iit bombay,Tier-2,8.31,"data analysis, machine learning","web development, data science",delhi,mumbai
+STU_0061,student 61,student61@university.edu,iit bombay,Tier-3,7.24,"java, python",software development,delhi,pune
+STU_0062,student 62,student62@university.edu,bits pilani,Tier-2,7.67,"java, java, python, web development","mobile apps, web development",pune,delhi
+STU_0063,student 63,student63@university.edu,vit chennai,Tier-3,7.37,"python, java, sql","web development, software development",hyderabad,chennai
+STU_0064,student 64,student64@university.edu,iit bombay,Tier-2,7.57,"machine learning, java",ai/ml,mumbai,bangalore
+STU_0065,student 65,student65@university.edu,iit bombay,Tier-2,8.66,"machine learning, machine learning, java, python",software development,chennai,mumbai
+STU_0066,student 66,student66@university.edu,bits pilani,Tier-3,7.39,"sql, machine learning, java","software development, ai/ml",pune,chennai
+STU_0067,student 67,student67@university.edu,iit bombay,Tier-2,8.2,"java, web development","mobile apps, ai/ml",chennai,chennai
+STU_0068,student 68,student68@university.edu,iit bombay,Tier-3,7.93,"python, sql, machine learning, java",mobile apps,hyderabad,hyderabad
+STU_0069,student 69,student69@university.edu,bits pilani,Tier-1,8.49,"web development, python",web development,hyderabad,chennai
+STU_0070,student 70,student70@university.edu,bits pilani,Tier-3,9.31,"web development, sql, machine learning",mobile apps,mumbai,pune
+STU_0071,student 71,student71@university.edu,iit delhi,Tier-1,8.7,"sql, java, python, data analysis","web development, data science",mumbai,mumbai
+STU_0072,student 72,student72@university.edu,vit chennai,Tier-3,7.14,"web development, python","ai/ml, software development",delhi,mumbai
+STU_0073,student 73,student73@university.edu,vit chennai,Tier-2,6.59,"python, java, sql",data science,chennai,bangalore
+STU_0074,student 74,student74@university.edu,iit bombay,Tier-3,7.29,"web development, java, sql, java","data science, mobile apps",chennai,bangalore
+STU_0075,student 75,student75@university.edu,vit chennai,Tier-1,8.29,"web development, python, python",data science,hyderabad,bangalore
+STU_0076,student 76,student76@university.edu,iit bombay,Tier-2,6.65,"machine learning, data analysis, sql, machine learning",web development,delhi,pune
+STU_0077,student 77,student77@university.edu,iit delhi,Tier-3,7.99,"data analysis, java, web development","mobile apps, ai/ml",pune,chennai
+STU_0078,student 78,student78@university.edu,bits pilani,Tier-2,8.29,"machine learning, web development, python",data science,chennai,chennai
+STU_0079,student 79,student79@university.edu,bits pilani,Tier-2,7.5,"python, python, sql, data analysis",ai/ml,delhi,hyderabad
+STU_0080,student 80,student80@university.edu,bits pilani,Tier-2,8.81,"machine learning, web development","data science, software development",delhi,pune
+STU_0081,student 81,student81@university.edu,vit chennai,Tier-2,6.82,"machine learning, java",web development,hyderabad,bangalore
+STU_0082,student 82,student82@university.edu,iit delhi,Tier-2,6.73,"machine learning, sql",web development,delhi,delhi
+STU_0083,student 83,student83@university.edu,vit chennai,Tier-2,8.68,"data analysis, java",ai/ml,mumbai,hyderabad
+STU_0084,student 84,student84@university.edu,vit chennai,Tier-3,7.99,"data analysis, machine learning, web development, java","web development, data science",mumbai,delhi
+STU_0085,student 85,student85@university.edu,iit delhi,Tier-1,8.57,"data analysis, data analysis, java, machine learning","data science, software development",bangalore,chennai
+STU_0086,student 86,student86@university.edu,iit delhi,Tier-2,7.8,"data analysis, python, sql","mobile apps, web development",hyderabad,hyderabad
+STU_0087,student 87,student87@university.edu,iit delhi,Tier-3,7.24,"data analysis, machine learning, data analysis","software development, ai/ml",pune,hyderabad
+STU_0088,student 88,student88@university.edu,iit delhi,Tier-3,8.96,"machine learning, web development, web development",data science,bangalore,mumbai
+STU_0089,student 89,student89@university.edu,bits pilani,Tier-2,8.9,"python, java",mobile apps,mumbai,chennai
+STU_0090,student 90,student90@university.edu,nit trichy,Tier-2,8.58,"data analysis, python, machine learning","data science, data science",bangalore,chennai
+STU_0091,student 91,student91@university.edu,nit trichy,Tier-2,7.32,"machine learning, machine learning","software development, mobile apps",hyderabad,pune
+STU_0092,student 92,student92@university.edu,iit delhi,Tier-1,8.27,"data analysis, web development, machine learning, sql",mobile apps,hyderabad,hyderabad
+STU_0093,student 93,student93@university.edu,nit trichy,Tier-2,7.58,"web development, machine learning, machine learning","mobile apps, ai/ml",delhi,chennai
+STU_0094,student 94,student94@university.edu,nit trichy,Tier-2,6.77,"python, data analysis","ai/ml, mobile apps",chennai,hyderabad
+STU_0095,student 95,student95@university.edu,iit delhi,Tier-2,9.25,"machine learning, data analysis",web development,delhi,pune
+STU_0096,student 96,student96@university.edu,nit trichy,Tier-1,6.91,"java, python, web development","ai/ml, ai/ml",hyderabad,pune
+STU_0097,student 97,student97@university.edu,vit chennai,Tier-3,9.35,"machine learning, java, web development",web development,mumbai,mumbai
+STU_0098,student 98,student98@university.edu,iit bombay,Tier-3,7.84,"machine learning, python, java",software development,pune,hyderabad
+STU_0099,student 99,student99@university.edu,iit bombay,Tier-2,7.06,"java, python","mobile apps, mobile apps",mumbai,chennai
+STU_0100,student 100,student100@university.edu,iit delhi,Tier-2,8.13,"java, sql","web development, software development",delhi,chennai
+STU_0101,student 101,student101@university.edu,bits pilani,Tier-2,9.12,"python, python","software development, web development",pune,hyderabad
+STU_0102,student 102,student102@university.edu,iit delhi,Tier-3,8.7,"sql, machine learning, data analysis, java",mobile apps,hyderabad,hyderabad
+STU_0103,student 103,student103@university.edu,bits pilani,Tier-2,8.92,"data analysis, sql, data analysis","data science, ai/ml",mumbai,hyderabad
+STU_0104,student 104,student104@university.edu,iit bombay,Tier-1,8.48,"data analysis, machine learning, web development, machine learning","web development, data science",hyderabad,bangalore
+STU_0105,student 105,student105@university.edu,iit delhi,Tier-3,8.58,"machine learning, python, java",web development,pune,chennai
+STU_0106,student 106,student106@university.edu,vit chennai,Tier-3,9.05,"java, web development, sql","ai/ml, mobile apps",pune,pune
+STU_0107,student 107,student107@university.edu,nit trichy,Tier-3,7.25,"java, data analysis, data analysis",ai/ml,mumbai,chennai
+STU_0108,student 108,student108@university.edu,bits pilani,Tier-3,7.97,"sql, machine learning, data analysis",ai/ml,hyderabad,bangalore
+STU_0109,student 109,student109@university.edu,nit trichy,Tier-2,7.16,"web development, sql","mobile apps, web development",bangalore,hyderabad
+STU_0110,student 110,student110@university.edu,nit trichy,Tier-2,9.46,"sql, java, sql","mobile apps, software development",hyderabad,mumbai
+STU_0111,student 111,student111@university.edu,iit delhi,Tier-3,9.33,"data analysis, machine learning, java","ai/ml, software development",pune,hyderabad
+STU_0112,student 112,student112@university.edu,nit trichy,Tier-3,6.62,"python, java, python",data science,hyderabad,hyderabad
+STU_0113,student 113,student113@university.edu,vit chennai,Tier-1,8.62,"data analysis, python",mobile apps,delhi,bangalore
+STU_0114,student 114,student114@university.edu,nit trichy,Tier-1,9.28,"data analysis, python, data analysis, data analysis","web development, mobile apps",bangalore,chennai
+STU_0115,student 115,student115@university.edu,iit delhi,Tier-2,7.04,"web development, machine learning, sql",mobile apps,chennai,hyderabad
+STU_0116,student 116,student116@university.edu,vit chennai,Tier-3,8.2,"python, data analysis, python, web development","data science, data science",delhi,chennai
+STU_0117,student 117,student117@university.edu,iit bombay,Tier-3,9.25,"java, web development",data science,chennai,delhi
+STU_0118,student 118,student118@university.edu,nit trichy,Tier-1,6.6,"machine learning, python, machine learning","mobile apps, data science",mumbai,pune
+STU_0119,student 119,student119@university.edu,iit delhi,Tier-2,8.59,"machine learning, machine learning","mobile apps, mobile apps",chennai,chennai
+STU_0120,student 120,student120@university.edu,iit bombay,Tier-2,7.39,"data analysis, machine learning","ai/ml, ai/ml",hyderabad,mumbai
+STU_0121,student 121,student121@university.edu,iit bombay,Tier-3,9.27,"web development, machine learning, data analysis","web development, web development",chennai,pune
+STU_0122,student 122,student122@university.edu,bits pilani,Tier-3,9.41,"sql, data analysis","ai/ml, web development",pune,mumbai
+STU_0123,student 123,student123@university.edu,vit chennai,Tier-3,9.33,"machine learning, sql, sql",data science,delhi,hyderabad
+STU_0124,student 124,student124@university.edu,nit trichy,Tier-2,7.92,"sql, java",mobile apps,delhi,pune
+STU_0125,student 125,student125@university.edu,iit delhi,Tier-2,9.09,"python, java, data analysis",software development,chennai,chennai
+STU_0126,student 126,student126@university.edu,bits pilani,Tier-2,9.03,"java, web development, python, sql","mobile apps, data science",delhi,pune
+STU_0127,student 127,student127@university.edu,vit chennai,Tier-1,7.46,"sql, web development","ai/ml, ai/ml",pune,hyderabad
+STU_0128,student 128,student128@university.edu,bits pilani,Tier-3,8.99,"machine learning, data analysis","data science, ai/ml",delhi,bangalore
+STU_0129,student 129,student129@university.edu,vit chennai,Tier-3,6.61,"sql, machine learning, python",web development,chennai,mumbai
+STU_0130,student 130,student130@university.edu,vit chennai,Tier-3,8.29,"python, web development, machine learning, machine learning",mobile apps,bangalore,hyderabad
+STU_0131,student 131,student131@university.edu,nit trichy,Tier-3,7.19,"machine learning, machine learning","mobile apps, data science",bangalore,bangalore
+STU_0132,student 132,student132@university.edu,vit chennai,Tier-2,6.86,"java, web development, machine learning","ai/ml, software development",mumbai,pune
+STU_0133,student 133,student133@university.edu,bits pilani,Tier-3,6.73,"data analysis, web development, sql, sql","ai/ml, software development",delhi,pune
+STU_0134,student 134,student134@university.edu,vit chennai,Tier-3,8.59,"data analysis, web development, web development",data science,chennai,hyderabad
+STU_0135,student 135,student135@university.edu,nit trichy,Tier-3,7.52,"web development, data analysis, java",ai/ml,delhi,chennai
+STU_0136,student 136,student136@university.edu,nit trichy,Tier-2,8.67,"sql, web development, data analysis","software development, data science",hyderabad,pune
+STU_0137,student 137,student137@university.edu,bits pilani,Tier-2,6.7,"web development, java, java",web development,pune,chennai
+STU_0138,student 138,student138@university.edu,iit bombay,Tier-1,7.45,"web development, python, web development, web development","web development, data science",delhi,chennai
+STU_0139,student 139,student139@university.edu,iit bombay,Tier-3,8.12,"java, web development, web development",mobile apps,delhi,chennai
+STU_0140,student 140,student140@university.edu,vit chennai,Tier-2,8.87,"java, web development",data science,bangalore,delhi
+STU_0141,student 141,student141@university.edu,iit delhi,Tier-2,7.46,"machine learning, python",data science,pune,bangalore
+STU_0142,student 142,student142@university.edu,vit chennai,Tier-2,8.38,"python, machine learning, sql, web development",web development,chennai,bangalore
+STU_0143,student 143,student143@university.edu,bits pilani,Tier-2,9.16,"web development, java, data analysis, machine learning",data science,delhi,pune
+STU_0144,student 144,student144@university.edu,bits pilani,Tier-2,8.35,"machine learning, machine learning, java",software development,bangalore,pune
+STU_0145,student 145,student145@university.edu,bits pilani,Tier-1,7.2,"python, web development, machine learning, web development","ai/ml, data science",mumbai,chennai
+STU_0146,student 146,student146@university.edu,bits pilani,Tier-2,6.57,"java, web development, java",software development,pune,delhi
+STU_0147,student 147,student147@university.edu,bits pilani,Tier-2,9.11,"python, python",mobile apps,bangalore,chennai
+STU_0148,student 148,student148@university.edu,nit trichy,Tier-3,6.56,"python, python","data science, data science",bangalore,delhi
+STU_0149,student 149,student149@university.edu,iit bombay,Tier-2,9.12,"java, machine learning","ai/ml, data science",bangalore,chennai
+STU_0150,student 150,student150@university.edu,bits pilani,Tier-3,8.09,"python, java",data science,delhi,mumbai
+STU_0151,student 151,student151@university.edu,iit delhi,Tier-2,9.32,"java, machine learning, web development",web development,delhi,mumbai
+STU_0152,student 152,student152@university.edu,iit delhi,Tier-2,8.9,"java, sql, data analysis, python","mobile apps, ai/ml",mumbai,hyderabad
+STU_0153,student 153,student153@university.edu,iit delhi,Tier-3,9.49,"python, machine learning, web development, sql",data science,hyderabad,chennai
+STU_0154,student 154,student154@university.edu,iit delhi,Tier-2,7.55,"machine learning, python","mobile apps, data science",hyderabad,pune
+STU_0155,student 155,student155@university.edu,nit trichy,Tier-1,8.8,"web development, web development, python, sql",ai/ml,hyderabad,bangalore
+STU_0156,student 156,student156@university.edu,iit delhi,Tier-1,7.71,"web development, sql","web development, web development",pune,hyderabad
+STU_0157,student 157,student157@university.edu,bits pilani,Tier-3,7.94,"python, web development, machine learning, web development","data science, ai/ml",pune,pune
+STU_0158,student 158,student158@university.edu,vit chennai,Tier-2,8.38,"data analysis, machine learning, sql",web development,mumbai,mumbai
+STU_0159,student 159,student159@university.edu,iit delhi,Tier-3,9.12,"sql, sql, machine learning, sql",software development,pune,chennai
+STU_0160,student 160,student160@university.edu,nit trichy,Tier-2,9.45,"java, web development, web development, data analysis",software development,hyderabad,hyderabad
+STU_0161,student 161,student161@university.edu,nit trichy,Tier-1,8.8,"java, data analysis, machine learning",web development,hyderabad,chennai
+STU_0162,student 162,student162@university.edu,iit delhi,Tier-1,7.75,"python, python","ai/ml, mobile apps",bangalore,mumbai
+STU_0163,student 163,student163@university.edu,vit chennai,Tier-2,7.76,"java, sql, python",data science,pune,hyderabad
+STU_0164,student 164,student164@university.edu,iit delhi,Tier-2,8.71,"machine learning, data analysis, python",data science,delhi,mumbai
+STU_0165,student 165,student165@university.edu,nit trichy,Tier-2,7.22,"python, java","ai/ml, mobile apps",delhi,delhi
+STU_0166,student 166,student166@university.edu,iit bombay,Tier-2,6.83,"data analysis, java, java, web development",mobile apps,bangalore,mumbai
+STU_0167,student 167,student167@university.edu,bits pilani,Tier-3,7.56,"java, data analysis, web development, web development",mobile apps,bangalore,chennai
+STU_0168,student 168,student168@university.edu,nit trichy,Tier-2,7.36,"machine learning, java, sql, java","ai/ml, ai/ml",bangalore,bangalore
+STU_0169,student 169,student169@university.edu,iit delhi,Tier-2,7.39,"python, java, python, python","ai/ml, ai/ml",delhi,mumbai
+STU_0170,student 170,student170@university.edu,bits pilani,Tier-3,7.2,"data analysis, machine learning, java, python","data science, web development",hyderabad,pune
+STU_0171,student 171,student171@university.edu,iit delhi,Tier-2,6.63,"data analysis, machine learning, data analysis",web development,bangalore,bangalore
+STU_0172,student 172,student172@university.edu,iit delhi,Tier-2,6.55,"machine learning, sql","software development, ai/ml",mumbai,delhi
+STU_0173,student 173,student173@university.edu,iit bombay,Tier-3,9.46,"python, web development, sql",mobile apps,bangalore,hyderabad
+STU_0174,student 174,student174@university.edu,bits pilani,Tier-3,7.78,"data analysis, python, machine learning","ai/ml, software development",chennai,hyderabad
+STU_0175,student 175,student175@university.edu,bits pilani,Tier-1,7.65,"java, web development","ai/ml, ai/ml",bangalore,bangalore
+STU_0176,student 176,student176@university.edu,iit bombay,Tier-3,8.54,"data analysis, web development","web development, web development",delhi,hyderabad
+STU_0177,student 177,student177@university.edu,nit trichy,Tier-2,7.15,"data analysis, data analysis, machine learning",data science,pune,mumbai
+STU_0178,student 178,student178@university.edu,iit delhi,Tier-2,9.35,"data analysis, data analysis, sql, python","mobile apps, ai/ml",bangalore,bangalore
+STU_0179,student 179,student179@university.edu,vit chennai,Tier-2,8.86,"machine learning, web development, web development",ai/ml,pune,chennai
+STU_0180,student 180,student180@university.edu,iit delhi,Tier-3,6.77,"java, web development, web development","data science, data science",chennai,mumbai
+STU_0181,student 181,student181@university.edu,iit delhi,Tier-2,7.75,"machine learning, sql, java, sql",data science,mumbai,mumbai
+STU_0182,student 182,student182@university.edu,nit trichy,Tier-2,9.14,"machine learning, web development, data analysis, sql","mobile apps, ai/ml",pune,mumbai
+STU_0183,student 183,student183@university.edu,iit delhi,Tier-2,9.33,"web development, python",software development,hyderabad,chennai
+STU_0184,student 184,student184@university.edu,iit bombay,Tier-2,7.9,"data analysis, sql, web development, data analysis","data science, ai/ml",bangalore,delhi
+STU_0185,student 185,student185@university.edu,iit bombay,Tier-1,8.34,"machine learning, python, web development, java","mobile apps, ai/ml",chennai,pune
+STU_0186,student 186,student186@university.edu,bits pilani,Tier-1,7.0,"python, machine learning, web development","web development, data science",chennai,hyderabad
+STU_0187,student 187,student187@university.edu,vit chennai,Tier-1,9.47,"python, machine learning, sql, java",web development,pune,bangalore
+STU_0188,student 188,student188@university.edu,iit delhi,Tier-1,7.2,"sql, python, java","ai/ml, mobile apps",mumbai,delhi
+STU_0189,student 189,student189@university.edu,iit delhi,Tier-1,9.33,"data analysis, sql","web development, mobile apps",delhi,bangalore
+STU_0190,student 190,student190@university.edu,nit trichy,Tier-2,8.45,"java, python, web development, python","software development, software development",bangalore,hyderabad
+STU_0191,student 191,student191@university.edu,iit bombay,Tier-1,8.32,"java, java, java",data science,chennai,chennai
+STU_0192,student 192,student192@university.edu,vit chennai,Tier-2,8.04,"machine learning, python, data analysis","software development, mobile apps",mumbai,mumbai
+STU_0193,student 193,student193@university.edu,bits pilani,Tier-3,7.19,"python, java, web development","data science, software development",hyderabad,mumbai
+STU_0194,student 194,student194@university.edu,iit bombay,Tier-2,7.03,"machine learning, sql","software development, mobile apps",chennai,chennai
+STU_0195,student 195,student195@university.edu,bits pilani,Tier-2,7.16,"data analysis, sql, web development, java","data science, mobile apps",mumbai,delhi
+STU_0196,student 196,student196@university.edu,nit trichy,Tier-1,7.06,"web development, machine learning, machine learning, java","software development, web development",delhi,delhi
+STU_0197,student 197,student197@university.edu,nit trichy,Tier-1,8.84,"sql, java, web development",data science,delhi,bangalore
+STU_0198,student 198,student198@university.edu,iit delhi,Tier-1,7.55,"web development, data analysis, web development",data science,chennai,chennai
+STU_0199,student 199,student199@university.edu,vit chennai,Tier-1,6.67,"data analysis, data analysis, machine learning","ai/ml, ai/ml",chennai,delhi
+STU_0200,student 200,student200@university.edu,bits pilani,Tier-2,9.41,"web development, machine learning","software development, data science",pune,chennai
+STU_0201,student 201,student201@university.edu,iit bombay,Tier-1,9.15,"machine learning, web development",software development,bangalore,hyderabad
+STU_0202,student 202,student202@university.edu,nit trichy,Tier-1,9.28,"sql, web development, java","software development, software development",mumbai,mumbai
+STU_0203,student 203,student203@university.edu,iit delhi,Tier-1,9.48,"machine learning, machine learning, data analysis, java",ai/ml,chennai,mumbai
+STU_0204,student 204,student204@university.edu,iit delhi,Tier-2,7.02,"java, sql, machine learning",web development,bangalore,mumbai
+STU_0205,student 205,student205@university.edu,bits pilani,Tier-2,7.69,"python, data analysis, sql, data analysis",data science,pune,chennai
+STU_0206,student 206,student206@university.edu,nit trichy,Tier-2,8.77,"machine learning, data analysis","web development, web development",bangalore,chennai
+STU_0207,student 207,student207@university.edu,vit chennai,Tier-2,8.59,"data analysis, web development, machine learning",web development,chennai,bangalore
+STU_0208,student 208,student208@university.edu,nit trichy,Tier-2,6.96,"web development, machine learning, data analysis, python",software development,delhi,mumbai
+STU_0209,student 209,student209@university.edu,bits pilani,Tier-1,8.95,"python, java, machine learning, python","mobile apps, software development",mumbai,bangalore
+STU_0210,student 210,student210@university.edu,bits pilani,Tier-3,7.17,"machine learning, sql, sql, python","ai/ml, ai/ml",mumbai,mumbai
+STU_0211,student 211,student211@university.edu,nit trichy,Tier-2,7.17,"web development, python, python","data science, data science",delhi,bangalore
+STU_0212,student 212,student212@university.edu,bits pilani,Tier-1,8.11,"machine learning, machine learning, sql","data science, ai/ml",chennai,bangalore
+STU_0213,student 213,student213@university.edu,nit trichy,Tier-3,8.28,"data analysis, data analysis, machine learning, sql","ai/ml, web development",mumbai,hyderabad
+STU_0214,student 214,student214@university.edu,iit bombay,Tier-3,8.24,"python, java, web development, python","mobile apps, web development",chennai,bangalore
+STU_0215,student 215,student215@university.edu,nit trichy,Tier-1,6.77,"java, java",ai/ml,pune,chennai
+STU_0216,student 216,student216@university.edu,nit trichy,Tier-2,9.13,"web development, sql, python, data analysis","data science, software development",chennai,bangalore
+STU_0217,student 217,student217@university.edu,bits pilani,Tier-3,7.3,"data analysis, web development, data analysis",ai/ml,bangalore,mumbai
+STU_0218,student 218,student218@university.edu,bits pilani,Tier-3,6.89,"sql, web development","ai/ml, mobile apps",delhi,bangalore
+STU_0219,student 219,student219@university.edu,iit delhi,Tier-1,9.17,"web development, sql, java, sql",web development,chennai,delhi
+STU_0220,student 220,student220@university.edu,iit delhi,Tier-2,9.37,"java, sql, web development","data science, mobile apps",pune,pune
+STU_0221,student 221,student221@university.edu,iit bombay,Tier-2,9.09,"web development, machine learning","data science, data science",hyderabad,mumbai
+STU_0222,student 222,student222@university.edu,iit delhi,Tier-2,8.93,"web development, java",web development,delhi,delhi
+STU_0223,student 223,student223@university.edu,nit trichy,Tier-2,8.47,"machine learning, data analysis",data science,mumbai,mumbai
+STU_0224,student 224,student224@university.edu,bits pilani,Tier-2,8.15,"machine learning, data analysis, java",web development,bangalore,chennai
+STU_0225,student 225,student225@university.edu,iit delhi,Tier-2,6.76,"python, python, machine learning, data analysis",data science,mumbai,pune
+STU_0226,student 226,student226@university.edu,iit delhi,Tier-3,7.73,"data analysis, data analysis","web development, data science",pune,pune
+STU_0227,student 227,student227@university.edu,iit bombay,Tier-1,7.62,"machine learning, python",software development,pune,chennai
+STU_0228,student 228,student228@university.edu,iit bombay,Tier-2,7.28,"data analysis, machine learning","data science, software development",mumbai,pune
+STU_0229,student 229,student229@university.edu,nit trichy,Tier-3,8.67,"data analysis, data analysis, machine learning","ai/ml, software development",delhi,chennai
+STU_0230,student 230,student230@university.edu,bits pilani,Tier-3,7.99,"sql, machine learning, data analysis, java",web development,mumbai,delhi
+STU_0231,student 231,student231@university.edu,iit bombay,Tier-2,6.74,"java, python, web development",mobile apps,chennai,hyderabad
+STU_0232,student 232,student232@university.edu,iit delhi,Tier-2,7.16,"machine learning, python, web development",data science,mumbai,mumbai
+STU_0233,student 233,student233@university.edu,bits pilani,Tier-1,8.55,"machine learning, java, java, sql","web development, mobile apps",bangalore,chennai
+STU_0234,student 234,student234@university.edu,bits pilani,Tier-2,6.73,"web development, machine learning",data science,bangalore,mumbai
+STU_0235,student 235,student235@university.edu,iit delhi,Tier-2,9.05,"python, sql, data analysis",software development,hyderabad,delhi
+STU_0236,student 236,student236@university.edu,iit bombay,Tier-2,7.99,"java, sql, machine learning, web development",web development,bangalore,hyderabad
+STU_0237,student 237,student237@university.edu,iit delhi,Tier-2,7.94,"java, machine learning, data analysis",ai/ml,mumbai,delhi
+STU_0238,student 238,student238@university.edu,bits pilani,Tier-2,8.28,"web development, java",data science,bangalore,pune
+STU_0239,student 239,student239@university.edu,vit chennai,Tier-1,8.97,"java, web development","software development, web development",delhi,mumbai
+STU_0240,student 240,student240@university.edu,vit chennai,Tier-2,7.54,"java, web development, python, sql",data science,bangalore,hyderabad
+STU_0241,student 241,student241@university.edu,nit trichy,Tier-2,8.53,"python, web development, machine learning, python",web development,chennai,pune
+STU_0242,student 242,student242@university.edu,iit delhi,Tier-2,8.2,"python, python",data science,delhi,hyderabad
+STU_0243,student 243,student243@university.edu,iit delhi,Tier-1,7.3,"web development, machine learning, java",mobile apps,hyderabad,pune
+STU_0244,student 244,student244@university.edu,nit trichy,Tier-3,9.14,"data analysis, python",software development,chennai,delhi
+STU_0245,student 245,student245@university.edu,nit trichy,Tier-2,8.89,"web development, web development","ai/ml, mobile apps",mumbai,chennai
+STU_0246,student 246,student246@university.edu,nit trichy,Tier-2,8.48,"machine learning, java, sql","ai/ml, software development",mumbai,mumbai
+STU_0247,student 247,student247@university.edu,bits pilani,Tier-3,9.05,"data analysis, python",ai/ml,mumbai,bangalore
+STU_0248,student 248,student248@university.edu,iit delhi,Tier-2,9.1,"java, data analysis","software development, software development",chennai,bangalore
+STU_0249,student 249,student249@university.edu,bits pilani,Tier-1,8.63,"data analysis, java, python","ai/ml, web development",chennai,delhi
+STU_0250,student 250,student250@university.edu,nit trichy,Tier-2,9.01,"web development, web development, java",mobile apps,chennai,mumbai
+STU_0251,student 251,student251@university.edu,iit delhi,Tier-2,8.59,"python, java, java","ai/ml, software development",delhi,mumbai
+STU_0252,student 252,student252@university.edu,bits pilani,Tier-3,8.54,"sql, web development, data analysis","data science, ai/ml",pune,delhi
+STU_0253,student 253,student253@university.edu,bits pilani,Tier-2,8.36,"data analysis, machine learning, sql, java","ai/ml, software development",delhi,mumbai
+STU_0254,student 254,student254@university.edu,nit trichy,Tier-1,8.76,"sql, python, web development, machine learning",data science,mumbai,chennai
+STU_0255,student 255,student255@university.edu,iit delhi,Tier-2,6.98,"machine learning, data analysis, machine learning",ai/ml,pune,delhi
+STU_0256,student 256,student256@university.edu,nit trichy,Tier-2,9.14,"web development, data analysis, machine learning",data science,bangalore,chennai
+STU_0257,student 257,student257@university.edu,iit delhi,Tier-2,9.12,"sql, web development, python","web development, data science",mumbai,mumbai
+STU_0258,student 258,student258@university.edu,vit chennai,Tier-2,6.59,"machine learning, java, python","mobile apps, data science",hyderabad,delhi
+STU_0259,student 259,student259@university.edu,iit bombay,Tier-2,8.98,"java, python, data analysis, sql","ai/ml, mobile apps",delhi,mumbai
+STU_0260,student 260,student260@university.edu,iit bombay,Tier-3,6.89,"java, machine learning","mobile apps, software development",chennai,delhi
+STU_0261,student 261,student261@university.edu,iit bombay,Tier-2,7.51,"data analysis, machine learning, python, sql",ai/ml,delhi,mumbai
+STU_0262,student 262,student262@university.edu,nit trichy,Tier-2,8.73,"sql, sql, web development","software development, web development",chennai,chennai
+STU_0263,student 263,student263@university.edu,vit chennai,Tier-1,6.98,"sql, machine learning, java, machine learning","web development, ai/ml",pune,chennai
+STU_0264,student 264,student264@university.edu,iit delhi,Tier-1,8.95,"machine learning, web development",web development,hyderabad,mumbai
+STU_0265,student 265,student265@university.edu,bits pilani,Tier-2,9.0,"python, data analysis","software development, ai/ml",pune,delhi
+STU_0266,student 266,student266@university.edu,iit delhi,Tier-1,8.02,"java, machine learning, machine learning","data science, mobile apps",hyderabad,bangalore
+STU_0267,student 267,student267@university.edu,bits pilani,Tier-1,6.52,"machine learning, java, sql","mobile apps, ai/ml",delhi,chennai
+STU_0268,student 268,student268@university.edu,iit delhi,Tier-2,7.36,"sql, sql","web development, web development",chennai,chennai
+STU_0269,student 269,student269@university.edu,vit chennai,Tier-1,8.35,"sql, data analysis, python",data science,pune,pune
+STU_0270,student 270,student270@university.edu,bits pilani,Tier-3,9.44,"web development, machine learning",ai/ml,hyderabad,bangalore
+STU_0271,student 271,student271@university.edu,nit trichy,Tier-1,8.4,"web development, machine learning, data analysis, data analysis","software development, data science",mumbai,mumbai
+STU_0272,student 272,student272@university.edu,iit delhi,Tier-2,7.28,"data analysis, sql, python",mobile apps,mumbai,delhi
+STU_0273,student 273,student273@university.edu,iit delhi,Tier-2,8.4,"data analysis, python, web development, web development","mobile apps, mobile apps",pune,pune
+STU_0274,student 274,student274@university.edu,bits pilani,Tier-3,8.12,"data analysis, web development",software development,chennai,mumbai
+STU_0275,student 275,student275@university.edu,nit trichy,Tier-1,8.84,"machine learning, machine learning, data analysis","mobile apps, software development",pune,hyderabad
+STU_0276,student 276,student276@university.edu,nit trichy,Tier-2,6.82,"sql, sql, web development",ai/ml,delhi,chennai
+STU_0277,student 277,student277@university.edu,vit chennai,Tier-3,8.78,"sql, python",web development,hyderabad,hyderabad
+STU_0278,student 278,student278@university.edu,nit trichy,Tier-3,8.12,"machine learning, java",ai/ml,delhi,chennai
+STU_0279,student 279,student279@university.edu,nit trichy,Tier-3,9.39,"data analysis, data analysis, web development","mobile apps, data science",mumbai,chennai
+STU_0280,student 280,student280@university.edu,nit trichy,Tier-2,7.53,"web development, machine learning, web development, python","web development, web development",hyderabad,hyderabad
+STU_0281,student 281,student281@university.edu,iit bombay,Tier-1,8.4,"java, data analysis, sql",software development,pune,hyderabad
+STU_0282,student 282,student282@university.edu,vit chennai,Tier-2,9.3,"sql, java",data science,delhi,mumbai
+STU_0283,student 283,student283@university.edu,iit delhi,Tier-3,6.81,"machine learning, machine learning, python, web development",mobile apps,bangalore,pune
+STU_0284,student 284,student284@university.edu,bits pilani,Tier-2,9.31,"data analysis, sql, machine learning",software development,chennai,pune
+STU_0285,student 285,student285@university.edu,iit delhi,Tier-2,8.56,"java, web development, machine learning","data science, mobile apps",chennai,hyderabad
+STU_0286,student 286,student286@university.edu,vit chennai,Tier-2,6.7,"data analysis, python, web development",mobile apps,bangalore,mumbai
+STU_0287,student 287,student287@university.edu,bits pilani,Tier-3,7.4,"machine learning, java, python, sql","software development, data science",mumbai,pune
+STU_0288,student 288,student288@university.edu,vit chennai,Tier-1,8.62,"java, java, sql, python","software development, data science",hyderabad,mumbai
+STU_0289,student 289,student289@university.edu,nit trichy,Tier-2,6.7,"data analysis, python, web development, machine learning",mobile apps,chennai,mumbai
+STU_0290,student 290,student290@university.edu,bits pilani,Tier-2,8.25,"data analysis, sql, sql, python",data science,bangalore,chennai
+STU_0291,student 291,student291@university.edu,nit trichy,Tier-2,7.54,"java, java","ai/ml, mobile apps",pune,pune
+STU_0292,student 292,student292@university.edu,iit delhi,Tier-2,8.36,"machine learning, data analysis, python, machine learning",data science,bangalore,pune
+STU_0293,student 293,student293@university.edu,iit delhi,Tier-1,6.64,"sql, machine learning","mobile apps, software development",mumbai,chennai
+STU_0294,student 294,student294@university.edu,bits pilani,Tier-2,9.11,"python, data analysis, web development",data science,mumbai,hyderabad
+STU_0295,student 295,student295@university.edu,bits pilani,Tier-2,9.42,"python, web development, web development, data analysis","ai/ml, data science",delhi,chennai
+STU_0296,student 296,student296@university.edu,vit chennai,Tier-2,9.41,"machine learning, machine learning, python",data science,chennai,pune
+STU_0297,student 297,student297@university.edu,vit chennai,Tier-1,8.75,"python, sql, machine learning, web development",mobile apps,delhi,pune
+STU_0298,student 298,student298@university.edu,nit trichy,Tier-2,6.89,"java, sql, python, data analysis",mobile apps,bangalore,hyderabad
+STU_0299,student 299,student299@university.edu,bits pilani,Tier-2,8.77,"sql, sql, sql, java","web development, mobile apps",hyderabad,chennai
+STU_0300,student 300,student300@university.edu,iit delhi,Tier-1,6.57,"data analysis, data analysis, machine learning",mobile apps,hyderabad,delhi
+STU_0301,student 301,student301@university.edu,vit chennai,Tier-2,6.57,"data analysis, sql","mobile apps, web development",mumbai,delhi
+STU_0302,student 302,student302@university.edu,vit chennai,Tier-1,7.47,"data analysis, data analysis, sql, machine learning","data science, data science",hyderabad,hyderabad
+STU_0303,student 303,student303@university.edu,iit delhi,Tier-1,7.97,"python, data analysis","ai/ml, software development",hyderabad,chennai
+STU_0304,student 304,student304@university.edu,vit chennai,Tier-3,8.81,"data analysis, data analysis, python",software development,hyderabad,chennai
+STU_0305,student 305,student305@university.edu,nit trichy,Tier-2,8.55,"data analysis, sql, sql, java","web development, ai/ml",bangalore,mumbai
+STU_0306,student 306,student306@university.edu,bits pilani,Tier-3,7.84,"python, machine learning, machine learning, web development","software development, data science",hyderabad,pune
+STU_0307,student 307,student307@university.edu,iit delhi,Tier-2,7.32,"data analysis, python, sql, machine learning","web development, ai/ml",pune,bangalore
+STU_0308,student 308,student308@university.edu,bits pilani,Tier-2,9.49,"python, machine learning, sql, machine learning","ai/ml, web development",hyderabad,hyderabad
+STU_0309,student 309,student309@university.edu,vit chennai,Tier-3,7.78,"data analysis, web development, web development","ai/ml, mobile apps",hyderabad,bangalore
+STU_0310,student 310,student310@university.edu,vit chennai,Tier-2,7.85,"data analysis, python",data science,delhi,bangalore
+STU_0311,student 311,student311@university.edu,iit delhi,Tier-2,6.99,"machine learning, python","data science, ai/ml",bangalore,hyderabad
+STU_0312,student 312,student312@university.edu,nit trichy,Tier-2,8.88,"sql, web development, sql",software development,mumbai,chennai
+STU_0313,student 313,student313@university.edu,iit bombay,Tier-2,8.58,"sql, data analysis","software development, data science",delhi,hyderabad
+STU_0314,student 314,student314@university.edu,iit delhi,Tier-3,7.16,"python, machine learning, sql",software development,chennai,bangalore
+STU_0315,student 315,student315@university.edu,iit bombay,Tier-3,6.75,"python, web development, data analysis","ai/ml, mobile apps",bangalore,pune
+STU_0316,student 316,student316@university.edu,iit bombay,Tier-3,8.54,"python, web development, data analysis","data science, software development",pune,pune
+STU_0317,student 317,student317@university.edu,nit trichy,Tier-1,8.46,"data analysis, machine learning",mobile apps,bangalore,pune
+STU_0318,student 318,student318@university.edu,iit bombay,Tier-3,7.32,"sql, data analysis, java, web development","data science, mobile apps",chennai,chennai
+STU_0319,student 319,student319@university.edu,iit bombay,Tier-3,9.35,"web development, web development, machine learning, web development","mobile apps, mobile apps",chennai,delhi
+STU_0320,student 320,student320@university.edu,nit trichy,Tier-1,6.95,"machine learning, python, web development, web development",software development,chennai,hyderabad
+STU_0321,student 321,student321@university.edu,iit bombay,Tier-1,7.8,"web development, python",mobile apps,mumbai,pune
+STU_0322,student 322,student322@university.edu,iit bombay,Tier-3,9.33,"python, java, python, web development",software development,hyderabad,hyderabad
+STU_0323,student 323,student323@university.edu,iit bombay,Tier-2,7.76,"machine learning, data analysis, machine learning, data analysis",ai/ml,bangalore,pune
+STU_0324,student 324,student324@university.edu,iit delhi,Tier-3,8.42,"python, sql, java, machine learning",software development,hyderabad,chennai
+STU_0325,student 325,student325@university.edu,iit delhi,Tier-1,7.69,"data analysis, web development",mobile apps,hyderabad,delhi
+STU_0326,student 326,student326@university.edu,iit delhi,Tier-3,7.32,"data analysis, machine learning, python, web development",data science,pune,delhi
+STU_0327,student 327,student327@university.edu,nit trichy,Tier-2,9.45,"machine learning, machine learning, machine learning, machine learning","data science, ai/ml",chennai,pune
+STU_0328,student 328,student328@university.edu,vit chennai,Tier-1,7.73,"machine learning, web development, sql",ai/ml,mumbai,chennai
+STU_0329,student 329,student329@university.edu,iit bombay,Tier-1,9.18,"machine learning, java, java",ai/ml,pune,mumbai
+STU_0330,student 330,student330@university.edu,iit bombay,Tier-3,7.19,"python, python, data analysis, data analysis",mobile apps,delhi,hyderabad
+STU_0331,student 331,student331@university.edu,nit trichy,Tier-2,7.14,"python, java, python",ai/ml,mumbai,hyderabad
+STU_0332,student 332,student332@university.edu,iit bombay,Tier-2,6.59,"machine learning, data analysis","software development, web development",hyderabad,bangalore
+STU_0333,student 333,student333@university.edu,iit delhi,Tier-2,8.46,"sql, sql, machine learning","data science, web development",mumbai,chennai
+STU_0334,student 334,student334@university.edu,vit chennai,Tier-3,7.61,"python, python, web development",data science,chennai,bangalore
+STU_0335,student 335,student335@university.edu,bits pilani,Tier-2,9.09,"python, sql",data science,delhi,pune
+STU_0336,student 336,student336@university.edu,iit bombay,Tier-3,7.92,"sql, web development, machine learning","data science, ai/ml",chennai,bangalore
+STU_0337,student 337,student337@university.edu,iit delhi,Tier-2,9.4,"web development, web development","ai/ml, data science",delhi,delhi
+STU_0338,student 338,student338@university.edu,bits pilani,Tier-2,7.06,"python, data analysis, python",mobile apps,pune,hyderabad
+STU_0339,student 339,student339@university.edu,vit chennai,Tier-2,9.11,"sql, machine learning, machine learning",ai/ml,hyderabad,bangalore
+STU_0340,student 340,student340@university.edu,bits pilani,Tier-2,8.83,"java, web development","data science, mobile apps",delhi,delhi
+STU_0341,student 341,student341@university.edu,iit delhi,Tier-3,8.81,"python, data analysis",ai/ml,delhi,chennai
+STU_0342,student 342,student342@university.edu,bits pilani,Tier-2,9.03,"sql, data analysis, data analysis",mobile apps,delhi,bangalore
+STU_0343,student 343,student343@university.edu,nit trichy,Tier-2,8.78,"python, web development","data science, software development",mumbai,pune
+STU_0344,student 344,student344@university.edu,bits pilani,Tier-3,8.38,"python, python",software development,pune,pune
+STU_0345,student 345,student345@university.edu,iit bombay,Tier-2,6.89,"sql, sql","web development, data science",mumbai,pune
+STU_0346,student 346,student346@university.edu,iit bombay,Tier-2,6.6,"python, web development, sql, data analysis","web development, web development",hyderabad,hyderabad
+STU_0347,student 347,student347@university.edu,nit trichy,Tier-3,9.26,"sql, web development, data analysis, web development","data science, data science",delhi,bangalore
+STU_0348,student 348,student348@university.edu,iit delhi,Tier-2,8.35,"machine learning, sql",software development,pune,chennai
+STU_0349,student 349,student349@university.edu,iit bombay,Tier-1,8.89,"web development, web development","mobile apps, mobile apps",pune,bangalore
+STU_0350,student 350,student350@university.edu,vit chennai,Tier-3,7.94,"python, web development","web development, mobile apps",bangalore,hyderabad
+STU_0351,student 351,student351@university.edu,iit bombay,Tier-2,6.85,"machine learning, java, web development",software development,hyderabad,delhi
+STU_0352,student 352,student352@university.edu,iit bombay,Tier-2,6.88,"sql, data analysis",ai/ml,pune,hyderabad
+STU_0353,student 353,student353@university.edu,iit delhi,Tier-1,8.56,"data analysis, web development, python, machine learning",ai/ml,delhi,pune
+STU_0354,student 354,student354@university.edu,bits pilani,Tier-3,7.79,"java, java, machine learning","ai/ml, web development",delhi,delhi
+STU_0355,student 355,student355@university.edu,iit bombay,Tier-2,7.1,"python, machine learning, java",web development,pune,pune
+STU_0356,student 356,student356@university.edu,nit trichy,Tier-2,7.97,"sql, machine learning","ai/ml, software development",mumbai,mumbai
+STU_0357,student 357,student357@university.edu,bits pilani,Tier-3,6.69,"python, machine learning",ai/ml,hyderabad,hyderabad
+STU_0358,student 358,student358@university.edu,vit chennai,Tier-3,8.25,"sql, python, java","ai/ml, ai/ml",delhi,hyderabad
+STU_0359,student 359,student359@university.edu,iit delhi,Tier-1,7.31,"web development, python, java, java","data science, data science",pune,chennai
+STU_0360,student 360,student360@university.edu,vit chennai,Tier-2,8.89,"sql, web development, java, data analysis","web development, software development",delhi,bangalore
+STU_0361,student 361,student361@university.edu,bits pilani,Tier-2,7.43,"sql, data analysis, python",data science,pune,delhi
+STU_0362,student 362,student362@university.edu,bits pilani,Tier-3,7.87,"machine learning, sql","data science, software development",hyderabad,delhi
+STU_0363,student 363,student363@university.edu,bits pilani,Tier-1,6.53,"sql, web development, java","mobile apps, mobile apps",pune,chennai
+STU_0364,student 364,student364@university.edu,vit chennai,Tier-2,6.72,"data analysis, sql","software development, web development",bangalore,chennai
+STU_0365,student 365,student365@university.edu,bits pilani,Tier-3,7.68,"java, python, python",ai/ml,pune,bangalore
+STU_0366,student 366,student366@university.edu,vit chennai,Tier-3,7.94,"machine learning, sql, sql",ai/ml,pune,pune
+STU_0367,student 367,student367@university.edu,bits pilani,Tier-2,8.3,"web development, java","web development, mobile apps",hyderabad,bangalore
+STU_0368,student 368,student368@university.edu,nit trichy,Tier-3,7.37,"web development, data analysis",web development,pune,hyderabad
+STU_0369,student 369,student369@university.edu,bits pilani,Tier-1,8.58,"python, python",web development,hyderabad,pune
+STU_0370,student 370,student370@university.edu,vit chennai,Tier-3,9.08,"machine learning, web development, data analysis","mobile apps, software development",bangalore,mumbai
+STU_0371,student 371,student371@university.edu,iit bombay,Tier-1,8.84,"java, machine learning, sql, web development",ai/ml,hyderabad,bangalore
+STU_0372,student 372,student372@university.edu,bits pilani,Tier-2,6.62,"python, web development, data analysis, java",software development,delhi,chennai
+STU_0373,student 373,student373@university.edu,iit bombay,Tier-3,7.94,"machine learning, machine learning, java","software development, mobile apps",hyderabad,pune
+STU_0374,student 374,student374@university.edu,nit trichy,Tier-1,6.81,"sql, machine learning, machine learning, python",software development,bangalore,bangalore
+STU_0375,student 375,student375@university.edu,iit delhi,Tier-2,7.23,"sql, java, sql, python","software development, mobile apps",chennai,delhi
+STU_0376,student 376,student376@university.edu,nit trichy,Tier-3,9.46,"machine learning, machine learning, python",ai/ml,pune,mumbai
+STU_0377,student 377,student377@university.edu,bits pilani,Tier-3,6.93,"java, machine learning, web development, machine learning","ai/ml, data science",hyderabad,hyderabad
+STU_0378,student 378,student378@university.edu,iit bombay,Tier-2,8.0,"python, python","mobile apps, ai/ml",pune,delhi
+STU_0379,student 379,student379@university.edu,iit bombay,Tier-2,8.35,"machine learning, sql, web development, java","web development, software development",mumbai,delhi
+STU_0380,student 380,student380@university.edu,vit chennai,Tier-2,8.61,"machine learning, sql, sql","ai/ml, data science",delhi,mumbai
+STU_0381,student 381,student381@university.edu,iit bombay,Tier-2,8.18,"sql, data analysis, sql, python","software development, software development",delhi,hyderabad
+STU_0382,student 382,student382@university.edu,vit chennai,Tier-2,6.53,"data analysis, web development","ai/ml, software development",mumbai,chennai
+STU_0383,student 383,student383@university.edu,iit delhi,Tier-1,7.48,"machine learning, machine learning, data analysis",software development,mumbai,pune
+STU_0384,student 384,student384@university.edu,bits pilani,Tier-3,8.05,"machine learning, python","data science, data science",hyderabad,hyderabad
+STU_0385,student 385,student385@university.edu,vit chennai,Tier-2,6.76,"java, web development",ai/ml,mumbai,bangalore
+STU_0386,student 386,student386@university.edu,iit delhi,Tier-2,7.55,"sql, sql, sql","ai/ml, mobile apps",chennai,delhi
+STU_0387,student 387,student387@university.edu,iit bombay,Tier-2,6.6,"machine learning, java",mobile apps,pune,bangalore
+STU_0388,student 388,student388@university.edu,iit bombay,Tier-3,6.74,"data analysis, data analysis, sql, sql","web development, mobile apps",pune,chennai
+STU_0389,student 389,student389@university.edu,iit delhi,Tier-1,7.69,"sql, java, data analysis","mobile apps, ai/ml",bangalore,bangalore
+STU_0390,student 390,student390@university.edu,iit bombay,Tier-2,6.9,"web development, web development, data analysis, java","software development, mobile apps",mumbai,hyderabad
+STU_0391,student 391,student391@university.edu,iit delhi,Tier-2,8.2,"java, web development",web development,mumbai,bangalore
+STU_0392,student 392,student392@university.edu,vit chennai,Tier-2,8.57,"java, machine learning","web development, software development",chennai,chennai
+STU_0393,student 393,student393@university.edu,vit chennai,Tier-1,8.9,"sql, data analysis",web development,delhi,chennai
+STU_0394,student 394,student394@university.edu,iit delhi,Tier-3,7.1,"machine learning, python, python","data science, web development",delhi,chennai
+STU_0395,student 395,student395@university.edu,vit chennai,Tier-3,7.0,"web development, sql","data science, mobile apps",pune,hyderabad
+STU_0396,student 396,student396@university.edu,vit chennai,Tier-2,6.81,"data analysis, machine learning, python, web development",mobile apps,pune,chennai
+STU_0397,student 397,student397@university.edu,vit chennai,Tier-2,8.41,"machine learning, web development, web development",ai/ml,hyderabad,delhi
+STU_0398,student 398,student398@university.edu,nit trichy,Tier-3,8.62,"python, web development",mobile apps,chennai,chennai
+STU_0399,student 399,student399@university.edu,bits pilani,Tier-3,6.59,"web development, data analysis, web development","software development, data science",bangalore,bangalore
+STU_0400,student 400,student400@university.edu,iit bombay,Tier-1,9.31,"sql, sql, java, java","ai/ml, mobile apps",bangalore,pune
+STU_0401,student 401,student401@university.edu,nit trichy,Tier-2,6.66,"sql, java",mobile apps,chennai,bangalore
+STU_0402,student 402,student402@university.edu,vit chennai,Tier-2,8.12,"web development, data analysis","software development, software development",bangalore,pune
+STU_0403,student 403,student403@university.edu,iit delhi,Tier-2,8.63,"machine learning, web development, machine learning, sql","ai/ml, data science",delhi,bangalore
+STU_0404,student 404,student404@university.edu,vit chennai,Tier-3,9.11,"machine learning, sql, python, machine learning","mobile apps, ai/ml",bangalore,hyderabad
+STU_0405,student 405,student405@university.edu,bits pilani,Tier-3,8.64,"web development, sql, web development, java","web development, ai/ml",bangalore,bangalore
+STU_0406,student 406,student406@university.edu,vit chennai,Tier-3,8.91,"machine learning, sql, web development, python",ai/ml,chennai,hyderabad
+STU_0407,student 407,student407@university.edu,iit delhi,Tier-2,7.52,"machine learning, java, data analysis, python","mobile apps, software development",chennai,hyderabad
+STU_0408,student 408,student408@university.edu,bits pilani,Tier-1,8.94,"sql, web development, web development",mobile apps,bangalore,chennai
+STU_0409,student 409,student409@university.edu,vit chennai,Tier-3,6.74,"python, web development",ai/ml,mumbai,delhi
+STU_0410,student 410,student410@university.edu,bits pilani,Tier-3,9.18,"sql, sql, web development",mobile apps,chennai,pune
+STU_0411,student 411,student411@university.edu,iit bombay,Tier-1,8.14,"sql, data analysis, web development",data science,hyderabad,chennai
+STU_0412,student 412,student412@university.edu,iit bombay,Tier-3,8.95,"machine learning, data analysis, web development, data analysis",web development,hyderabad,chennai
+STU_0413,student 413,student413@university.edu,vit chennai,Tier-3,7.86,"machine learning, web development, python, machine learning",ai/ml,delhi,hyderabad
+STU_0414,student 414,student414@university.edu,bits pilani,Tier-2,8.43,"data analysis, java",ai/ml,bangalore,hyderabad
+STU_0415,student 415,student415@university.edu,iit delhi,Tier-2,8.08,"python, sql, sql","ai/ml, web development",mumbai,pune
+STU_0416,student 416,student416@university.edu,vit chennai,Tier-2,8.69,"machine learning, machine learning, machine learning","mobile apps, ai/ml",delhi,bangalore
+STU_0417,student 417,student417@university.edu,iit bombay,Tier-1,6.74,"java, machine learning, data analysis","software development, data science",bangalore,bangalore
+STU_0418,student 418,student418@university.edu,iit bombay,Tier-2,6.68,"python, data analysis, sql, sql","web development, ai/ml",chennai,chennai
+STU_0419,student 419,student419@university.edu,vit chennai,Tier-3,7.24,"sql, java","ai/ml, ai/ml",hyderabad,mumbai
+STU_0420,student 420,student420@university.edu,bits pilani,Tier-1,6.98,"sql, web development","mobile apps, mobile apps",pune,mumbai
+STU_0421,student 421,student421@university.edu,iit bombay,Tier-2,9.12,"sql, java, machine learning",software development,mumbai,bangalore
+STU_0422,student 422,student422@university.edu,bits pilani,Tier-2,7.16,"machine learning, web development, sql, python",data science,pune,mumbai
+STU_0423,student 423,student423@university.edu,iit bombay,Tier-2,9.43,"python, python","mobile apps, mobile apps",hyderabad,bangalore
+STU_0424,student 424,student424@university.edu,iit bombay,Tier-3,7.51,"python, sql",ai/ml,pune,hyderabad
+STU_0425,student 425,student425@university.edu,nit trichy,Tier-2,7.05,"data analysis, sql, sql, web development",software development,chennai,chennai
+STU_0426,student 426,student426@university.edu,iit bombay,Tier-2,8.87,"data analysis, web development","mobile apps, ai/ml",bangalore,delhi
+STU_0427,student 427,student427@university.edu,iit delhi,Tier-3,8.48,"java, data analysis, web development, data analysis",web development,chennai,chennai
+STU_0428,student 428,student428@university.edu,vit chennai,Tier-2,7.99,"sql, data analysis, java, java","ai/ml, ai/ml",pune,bangalore
+STU_0429,student 429,student429@university.edu,vit chennai,Tier-2,8.17,"web development, machine learning, java","software development, web development",chennai,bangalore
+STU_0430,student 430,student430@university.edu,bits pilani,Tier-2,8.66,"sql, data analysis",ai/ml,hyderabad,chennai
+STU_0431,student 431,student431@university.edu,iit bombay,Tier-1,7.19,"data analysis, sql",ai/ml,mumbai,pune
+STU_0432,student 432,student432@university.edu,iit delhi,Tier-1,9.49,"java, java, python, data analysis",web development,chennai,bangalore
+STU_0433,student 433,student433@university.edu,bits pilani,Tier-2,9.42,"sql, python, machine learning, python","web development, data science",hyderabad,mumbai
+STU_0434,student 434,student434@university.edu,nit trichy,Tier-2,8.45,"python, web development","web development, data science",mumbai,mumbai
+STU_0435,student 435,student435@university.edu,bits pilani,Tier-3,7.1,"web development, machine learning","ai/ml, ai/ml",bangalore,bangalore
+STU_0436,student 436,student436@university.edu,bits pilani,Tier-2,8.54,"python, machine learning",software development,pune,bangalore
+STU_0437,student 437,student437@university.edu,iit bombay,Tier-2,6.72,"java, python, java, data analysis",software development,bangalore,pune
+STU_0438,student 438,student438@university.edu,nit trichy,Tier-2,6.59,"machine learning, data analysis, data analysis","ai/ml, mobile apps",delhi,mumbai
+STU_0439,student 439,student439@university.edu,bits pilani,Tier-1,7.27,"sql, sql, data analysis, machine learning","mobile apps, data science",hyderabad,bangalore
+STU_0440,student 440,student440@university.edu,iit delhi,Tier-2,7.89,"web development, java",data science,mumbai,bangalore
+STU_0441,student 441,student441@university.edu,iit delhi,Tier-1,9.1,"web development, sql",software development,chennai,pune
+STU_0442,student 442,student442@university.edu,vit chennai,Tier-3,8.68,"data analysis, java, python, java","ai/ml, data science",bangalore,pune
+STU_0443,student 443,student443@university.edu,nit trichy,Tier-1,8.73,"machine learning, data analysis, machine learning","web development, data science",mumbai,chennai
+STU_0444,student 444,student444@university.edu,nit trichy,Tier-2,7.78,"java, java, web development",web development,hyderabad,pune
+STU_0445,student 445,student445@university.edu,vit chennai,Tier-1,7.54,"machine learning, java, sql, data analysis","software development, data science",delhi,delhi
+STU_0446,student 446,student446@university.edu,bits pilani,Tier-3,7.61,"sql, data analysis, web development",software development,bangalore,mumbai
+STU_0447,student 447,student447@university.edu,nit trichy,Tier-2,9.46,"web development, python, python, python","software development, data science",pune,chennai
+STU_0448,student 448,student448@university.edu,iit delhi,Tier-2,6.62,"web development, web development, web development",ai/ml,mumbai,delhi
+STU_0449,student 449,student449@university.edu,iit delhi,Tier-1,9.1,"web development, sql, python, python",web development,pune,bangalore
+STU_0450,student 450,student450@university.edu,iit bombay,Tier-3,8.24,"python, data analysis, java","web development, ai/ml",mumbai,bangalore
+STU_0451,student 451,student451@university.edu,nit trichy,Tier-2,7.82,"machine learning, data analysis, machine learning","software development, mobile apps",mumbai,chennai
+STU_0452,student 452,student452@university.edu,bits pilani,Tier-3,8.68,"data analysis, java, machine learning",software development,hyderabad,pune
+STU_0453,student 453,student453@university.edu,vit chennai,Tier-2,7.96,"machine learning, web development, data analysis",data science,hyderabad,bangalore
+STU_0454,student 454,student454@university.edu,vit chennai,Tier-1,9.12,"machine learning, web development, sql","software development, web development",hyderabad,hyderabad
+STU_0455,student 455,student455@university.edu,bits pilani,Tier-1,9.2,"java, machine learning, data analysis, java","software development, ai/ml",chennai,chennai
+STU_0456,student 456,student456@university.edu,iit bombay,Tier-2,7.77,"java, sql, python","web development, ai/ml",mumbai,delhi
+STU_0457,student 457,student457@university.edu,vit chennai,Tier-2,7.33,"python, python","web development, mobile apps",bangalore,chennai
+STU_0458,student 458,student458@university.edu,nit trichy,Tier-1,8.28,"web development, java, java","software development, data science",pune,mumbai
+STU_0459,student 459,student459@university.edu,iit bombay,Tier-3,9.24,"data analysis, python, java","web development, web development",hyderabad,pune
+STU_0460,student 460,student460@university.edu,nit trichy,Tier-2,7.13,"data analysis, web development",ai/ml,hyderabad,pune
+STU_0461,student 461,student461@university.edu,iit delhi,Tier-2,8.37,"web development, machine learning",mobile apps,pune,chennai
+STU_0462,student 462,student462@university.edu,iit bombay,Tier-2,8.39,"python, python, sql, sql",ai/ml,pune,bangalore
+STU_0463,student 463,student463@university.edu,vit chennai,Tier-2,8.7,"sql, java",data science,mumbai,bangalore
+STU_0464,student 464,student464@university.edu,iit bombay,Tier-2,6.89,"sql, web development, sql",ai/ml,hyderabad,hyderabad
+STU_0465,student 465,student465@university.edu,iit bombay,Tier-1,8.65,"data analysis, machine learning","mobile apps, software development",pune,hyderabad
+STU_0466,student 466,student466@university.edu,iit bombay,Tier-1,9.23,"web development, python, java, java",data science,chennai,pune
+STU_0467,student 467,student467@university.edu,iit bombay,Tier-3,7.04,"python, machine learning","mobile apps, web development",chennai,hyderabad
+STU_0468,student 468,student468@university.edu,nit trichy,Tier-3,7.21,"python, java, web development, web development","mobile apps, web development",hyderabad,delhi
+STU_0469,student 469,student469@university.edu,iit delhi,Tier-2,9.41,"web development, web development, python, machine learning",data science,pune,hyderabad
+STU_0470,student 470,student470@university.edu,bits pilani,Tier-2,7.04,"python, machine learning, python, data analysis","software development, mobile apps",mumbai,delhi
+STU_0471,student 471,student471@university.edu,iit bombay,Tier-2,9.06,"web development, machine learning",ai/ml,mumbai,hyderabad
+STU_0472,student 472,student472@university.edu,vit chennai,Tier-2,7.98,"sql, machine learning, web development, java","software development, web development",mumbai,pune
+STU_0473,student 473,student473@university.edu,iit bombay,Tier-1,7.24,"web development, data analysis","software development, ai/ml",delhi,pune
+STU_0474,student 474,student474@university.edu,vit chennai,Tier-1,9.11,"machine learning, python, sql, java","software development, software development",hyderabad,delhi
+STU_0475,student 475,student475@university.edu,nit trichy,Tier-3,7.84,"sql, machine learning, python","web development, mobile apps",mumbai,chennai
+STU_0476,student 476,student476@university.edu,vit chennai,Tier-2,8.04,"python, web development, java, web development","ai/ml, mobile apps",chennai,pune
+STU_0477,student 477,student477@university.edu,bits pilani,Tier-1,7.58,"machine learning, java","data science, web development",pune,chennai
+STU_0478,student 478,student478@university.edu,iit delhi,Tier-2,8.28,"python, data analysis","ai/ml, mobile apps",bangalore,bangalore
+STU_0479,student 479,student479@university.edu,vit chennai,Tier-2,6.99,"data analysis, data analysis, python, machine learning","web development, software development",bangalore,delhi
+STU_0480,student 480,student480@university.edu,vit chennai,Tier-2,7.67,"web development, web development",web development,mumbai,pune
+STU_0481,student 481,student481@university.edu,iit delhi,Tier-1,9.41,"python, machine learning, java",web development,bangalore,mumbai
+STU_0482,student 482,student482@university.edu,bits pilani,Tier-1,7.27,"machine learning, data analysis, machine learning, machine learning",mobile apps,bangalore,bangalore
+STU_0483,student 483,student483@university.edu,iit bombay,Tier-3,8.47,"machine learning, data analysis","web development, mobile apps",delhi,chennai
+STU_0484,student 484,student484@university.edu,vit chennai,Tier-1,7.48,"python, machine learning, web development","web development, software development",chennai,pune
+STU_0485,student 485,student485@university.edu,iit delhi,Tier-2,8.82,"sql, web development, python, python","software development, ai/ml",chennai,delhi
+STU_0486,student 486,student486@university.edu,nit trichy,Tier-2,6.89,"data analysis, java, web development","mobile apps, software development",delhi,hyderabad
+STU_0487,student 487,student487@university.edu,iit delhi,Tier-1,9.41,"web development, java, data analysis, web development","ai/ml, web development",delhi,mumbai
+STU_0488,student 488,student488@university.edu,nit trichy,Tier-2,7.86,"data analysis, java","web development, data science",bangalore,chennai
+STU_0489,student 489,student489@university.edu,bits pilani,Tier-3,7.21,"python, machine learning, data analysis",software development,hyderabad,bangalore
+STU_0490,student 490,student490@university.edu,iit bombay,Tier-3,6.72,"sql, python, sql",software development,pune,delhi
+STU_0491,student 491,student491@university.edu,iit delhi,Tier-3,7.01,"data analysis, python, machine learning, data analysis",software development,pune,mumbai
+STU_0492,student 492,student492@university.edu,vit chennai,Tier-2,8.06,"sql, python",mobile apps,bangalore,delhi
+STU_0493,student 493,student493@university.edu,bits pilani,Tier-2,7.51,"machine learning, java, data analysis",software development,pune,pune
+STU_0494,student 494,student494@university.edu,iit delhi,Tier-2,8.99,"machine learning, machine learning",web development,delhi,hyderabad
+STU_0495,student 495,student495@university.edu,vit chennai,Tier-2,7.79,"python, machine learning, java, machine learning","data science, software development",chennai,bangalore
+STU_0496,student 496,student496@university.edu,iit delhi,Tier-3,7.25,"data analysis, web development, java, sql",mobile apps,pune,delhi
+STU_0497,student 497,student497@university.edu,nit trichy,Tier-1,8.35,"data analysis, python, java, web development",data science,bangalore,chennai
+STU_0498,student 498,student498@university.edu,iit delhi,Tier-1,8.62,"web development, python, python","web development, software development",hyderabad,pune
+STU_0499,student 499,student499@university.edu,iit delhi,Tier-2,7.0,"java, machine learning, python, data analysis",mobile apps,bangalore,pune
+STU_0500,student 500,student500@university.edu,iit delhi,Tier-1,7.0,"web development, machine learning, web development, machine learning","mobile apps, data science",mumbai,bangalore
