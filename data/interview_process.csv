@@ -1,0 +1,16 @@
+company_name,internship_id,process_type,rounds,mode,expected_timeline_days,notes
+TechCorp Solutions,INT_0001,Technical,3,Hybrid,14,Technical round includes coding + system design
+StartupX,INT_0002,Mixed,2,Virtual,7,Fast-track process for urgent hiring
+AI Innovations,INT_0003,Technical,4,In-person,21,Includes ML case study presentation
+DataDriven Inc,INT_0004,Case,2,Hybrid,10,Data analysis case study required
+CloudFirst,INT_0005,HR,1,Virtual,3,Initial screening only
+FinTech Pro,INT_0006,Aptitude,3,Virtual,12,Quantitative aptitude + technical + HR
+DevOps Masters,INT_0007,Technical,2,In-person,8,Infrastructure and automation focus
+Mobile Solutions,INT_0008,Mixed,3,Hybrid,15,App development portfolio review required
+Enterprise Solutions,INT_0009,Technical,3,Virtual,16,Enterprise development practices focus
+Analytics Corp,INT_0010,Case,2,Hybrid,9,Business analytics case study
+Security Systems,INT_0011,Technical,4,In-person,18,Cybersecurity assessment required
+Game Studios,INT_0012,Mixed,2,Virtual,11,Portfolio + technical interview
+EdTech Innovators,INT_0013,HR,2,Virtual,6,Cultural fit assessment
+Robotics Lab,INT_0014,Technical,3,In-person,20,Hardware + software integration test
+Blockchain Co,INT_0015,Technical,3,Hybrid,14,Blockchain protocol understanding test
