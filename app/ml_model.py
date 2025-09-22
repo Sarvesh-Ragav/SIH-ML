@@ -78,11 +78,11 @@ class RecommendationEngine:
         
         try:
             data_files = {
-                "students_df": "student.csv",
-                "internships_df": "internship.csv", 
+                "students_df": "students.csv",
+                "internships_df": "internships.csv", 
                 "interactions_df": "interactions.csv",
                 "outcomes_df": "outcomes.csv",
-                "skills_courses_df": "internship_skills_courses.csv"
+                "skills_courses_df": "skills_courses_mapping.csv"
             }
             
             for attr_name, filename in data_files.items():
@@ -191,9 +191,10 @@ def get_recommendations(
     top_n: int = 3
 ) -> List[Dict[str, Any]]:
     """
-    Get ML recommendations for a student.
+    Get ML recommendations for a student using the FIXED model.
     
     This is the main interface function that will be called by the API.
+    Now uses the fixed recommendation engine with proper ranking.
     
     Args:
         student_id: Student ID
@@ -207,15 +208,65 @@ def get_recommendations(
     Returns:
         List of recommendation dictionaries
     """
-    return recommendation_engine.get_recommendations(
-        student_id=student_id,
-        skills=skills,
-        stream=stream, 
-        cgpa=cgpa,
-        rural_urban=rural_urban,
-        college_tier=college_tier,
-        top_n=top_n
-    )
+    try:
+        # Use the FIXED recommendation engine directly
+        from app.ml_model_fixed import get_fixed_recommendations
+        
+        logger.info(f"🔄 Getting {top_n} recommendations for student {student_id}")
+        
+        recommendations = get_fixed_recommendations(
+            student_id=student_id,
+            skills=skills,
+            stream=stream,
+            cgpa=cgpa,
+            rural_urban=rural_urban,
+            college_tier=college_tier,
+            top_n=top_n
+        )
+        
+        logger.info(f"✅ Fixed model returned {len(recommendations)} recommendations")
+        
+        # Convert to the expected format for API compatibility
+        formatted_recommendations = []
+        for rec in recommendations:
+            formatted_rec = {
+                "internship_id": rec["internship_id"],
+                "title": rec["title"],
+                "company": rec["company"],
+                "domain": rec["domain"],
+                "location": rec["location"],
+                "duration": rec["duration"],
+                "stipend": rec["stipend"],
+                "success_prob": rec["success_prob"],
+                "projected_success_prob": rec["projected_success_prob"],
+                "rank": rec["rank"],
+                "explanations": rec["explanations"],
+                "reasons": rec["explanations"],  # API compatibility
+                "missing_skills": rec["missing_skills"],
+                "course_suggestions": rec["course_suggestions"],
+                "scores": {
+                    "success_probability": rec["success_prob"],
+                    "skill_match": rec["score_breakdown"]["skill_match_score"],
+                    "employability_boost": rec["score_breakdown"]["academic_score"],
+                    "fairness_adjustment": rec["score_breakdown"]["profile_score"]
+                },
+                "skill_gap_analysis": {
+                    "status": "skills_needed" if rec["missing_skills"] else "no_gaps",
+                    "message": f"Need to develop {len(rec['missing_skills'])} skills" if rec["missing_skills"] else "All requirements met",
+                    "skills_needed": len(rec["missing_skills"]),
+                    "recommended_courses": len(rec["course_suggestions"]),
+                    "priority_skills": rec["missing_skills"][:3]
+                }
+            }
+            formatted_recommendations.append(formatted_rec)
+        
+        logger.info(f"📊 Success probabilities: {[f'{r['success_prob']:.3f}' for r in recommendations]}")
+        return formatted_recommendations
+        
+    except Exception as e:
+        logger.error(f"❌ Error in fixed recommendations: {e}")
+        # Fallback to empty list
+        return []
 
 
 def get_model_status() -> Dict[str, Any]:

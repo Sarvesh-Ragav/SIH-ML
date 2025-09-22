@@ -82,7 +82,9 @@ async def lifespan(app: FastAPI):
     logger.info("🚀 Starting ML Recommendations API...")
     
     # Initialize ML model and load data
-    success = initialize_ml_model()
+    # Use api_data for Railway deployment, fallback to data for local
+    data_path = "./api_data/" if os.path.exists("./api_data/") else "./data/"
+    success = initialize_ml_model(data_path)
     if success:
         model_loaded = True
         data_loaded = True
