@@ -1,0 +1,73 @@
+company_id,company_name,industry,size,location,reputation_score,growth_rate,employee_satisfaction,founded_year,website,linkedin_url,description
+COMP_0001,Unacademy,Retail,mid,Agra,8.0,23.9,4.3,2009,https://unacademy.com,https://linkedin.com/company/unacademy,Unacademy is a leading company in Retail industry.
+COMP_0002,SBI,Food & Beverage,mid,Lucknow,8.0,19.4,4.3,1998,https://sbi.com,https://linkedin.com/company/sbi,SBI is a leading company in Food & Beverage industry.
+COMP_0003,Nykaa,Automotive,large,Pimpri-Chinchwad,7.1,0.8,3.7,2018,https://nykaa.com,https://linkedin.com/company/nykaa,Nykaa is a leading company in Automotive industry.
+COMP_0004,Paytm,Fashion,startup,Thane,8.7,11.7,3.1,2007,https://paytm.com,https://linkedin.com/company/paytm,Paytm is a leading company in Fashion industry.
+COMP_0005,Airbnb,Retail,mid,Ludhiana,7.6,20.0,3.6,2016,https://airbnb.com,https://linkedin.com/company/airbnb,Airbnb is a leading company in Retail industry.
+COMP_0006,Spotify,Fashion,mid,Bhopal,7.0,8.2,4.0,1995,https://spotify.com,https://linkedin.com/company/spotify,Spotify is a leading company in Fashion industry.
+COMP_0007,ShopClues,Automotive,startup,Bangalore,8.1,18.3,3.4,2017,https://shopclues.com,https://linkedin.com/company/shopclues,ShopClues is a leading company in Automotive industry.
+COMP_0008,TCS,Technology,large,Ahmedabad,7.3,20.7,4.5,2017,https://tcs.com,https://linkedin.com/company/tcs,TCS is a leading company in Technology industry.
+COMP_0009,Microsoft,Technology,large,Bangalore,9.6,11.4,3.6,2019,https://microsoft.com,https://linkedin.com/company/microsoft,Microsoft is a leading company in Technology industry.
+COMP_0010,Jabong,Telecommunications,large,Nashik,6.3,5.7,4.9,2011,https://jabong.com,https://linkedin.com/company/jabong,Jabong is a leading company in Telecommunications industry.
+COMP_0011,Ola,E-commerce,mid,Pune,7.9,1.1,5.0,1994,https://ola.com,https://linkedin.com/company/ola,Ola is a leading company in E-commerce industry.
+COMP_0012,Salesforce,Fashion,mid,Ghaziabad,8.0,8.0,5.0,1999,https://salesforce.com,https://linkedin.com/company/salesforce,Salesforce is a leading company in Fashion industry.
+COMP_0013,UpGrad,Telecommunications,mid,Kolkata,5.1,23.0,4.9,2007,https://upgrad.com,https://linkedin.com/company/upgrad,UpGrad is a leading company in Telecommunications industry.
+COMP_0014,Razorpay,E-commerce,mid,Surat,7.5,14.8,4.3,1996,https://razorpay.com,https://linkedin.com/company/razorpay,Razorpay is a leading company in E-commerce industry.
+COMP_0015,Goldman Sachs,Travel & Tourism,mid,Hyderabad,8.1,11.7,3.1,2015,https://goldmansachs.com,https://linkedin.com/company/goldman-sachs,Goldman Sachs is a leading company in Travel & Tourism industry.
+COMP_0016,CRED,Sports,mid,Kanpur,5.7,-1.9,4.3,2018,https://cred.com,https://linkedin.com/company/cred,CRED is a leading company in Sports industry.
+COMP_0017,Snapdeal,Media & Entertainment,startup,Patna,8.7,2.9,4.7,2013,https://snapdeal.com,https://linkedin.com/company/snapdeal,Snapdeal is a leading company in Media & Entertainment industry.
+COMP_0018,Meta,Technology,large,Delhi,8.7,5.4,4.6,1996,https://meta.com,https://linkedin.com/company/meta,Meta is a leading company in Technology industry.
+COMP_0019,Groww,Retail,mid,Agra,8.2,-1.0,3.6,1991,https://groww.com,https://linkedin.com/company/groww,Groww is a leading company in Retail industry.
+COMP_0020,Simplilearn,Telecommunications,startup,Kanpur,7.2,-1.5,4.5,2008,https://simplilearn.com,https://linkedin.com/company/simplilearn,Simplilearn is a leading company in Telecommunications industry.
+COMP_0021,Viacom18,Food & Beverage,startup,Agra,5.3,22.5,4.7,2019,https://viacom18.com,https://linkedin.com/company/viacom18,Viacom18 is a leading company in Food & Beverage industry.
+COMP_0022,Deloitte,Healthcare,startup,Indore,6.4,17.3,3.3,1991,https://deloitte.com,https://linkedin.com/company/deloitte,Deloitte is a leading company in Healthcare industry.
+COMP_0023,Morgan Stanley,Technology,large,Pune,5.2,19.5,3.4,2005,https://morganstanley.com,https://linkedin.com/company/morgan-stanley,Morgan Stanley is a leading company in Technology industry.
+COMP_0024,Google,Technology,large,Ghaziabad,8.6,4.7,3.6,1991,https://google.com,https://linkedin.com/company/google,Google is a leading company in Technology industry.
+COMP_0025,ICICI Bank,Food & Beverage,large,Hyderabad,7.2,12.3,3.9,1992,https://icicibank.com,https://linkedin.com/company/icici-bank,ICICI Bank is a leading company in Food & Beverage industry.
+COMP_0026,Amazon,Technology,large,Delhi,9.1,22.1,4.6,1992,https://amazon.com,https://linkedin.com/company/amazon,Amazon is a leading company in Technology industry.
+COMP_0027,Uber,E-commerce,large,Nashik,8.7,0.0,3.1,2003,https://uber.com,https://linkedin.com/company/uber,Uber is a leading company in E-commerce industry.
+COMP_0028,PwC,Healthcare,startup,Vadodara,6.4,3.6,4.9,1991,https://pwc.com,https://linkedin.com/company/pwc,PwC is a leading company in Healthcare industry.
+COMP_0029,EY,Manufacturing,mid,Kolkata,8.0,21.3,3.4,2007,https://ey.com,https://linkedin.com/company/ey,EY is a leading company in Manufacturing industry.
+COMP_0030,Meesho,Media & Entertainment,large,Pimpri-Chinchwad,7.1,12.5,4.9,2006,https://meesho.com,https://linkedin.com/company/meesho,Meesho is a leading company in Media & Entertainment industry.
+COMP_0031,Hexaware,Manufacturing,mid,Hyderabad,5.1,20.6,3.8,2008,https://hexaware.com,https://linkedin.com/company/hexaware,Hexaware is a leading company in Manufacturing industry.
+COMP_0032,PhonePe,Education,mid,Ghaziabad,6.8,14.5,3.6,2019,https://phonepe.com,https://linkedin.com/company/phonepe,PhonePe is a leading company in Education industry.
+COMP_0033,Urban Company,Food & Beverage,mid,Hyderabad,5.5,6.2,3.4,2019,https://urbancompany.com,https://linkedin.com/company/urban-company,Urban Company is a leading company in Food & Beverage industry.
+COMP_0034,Hotstar,Consulting,startup,Nashik,7.9,18.3,3.1,2002,https://hotstar.com,https://linkedin.com/company/hotstar,Hotstar is a leading company in Consulting industry.
+COMP_0035,Axis Bank,Automotive,startup,Nagpur,5.2,8.3,4.9,1995,https://axisbank.com,https://linkedin.com/company/axis-bank,Axis Bank is a leading company in Automotive industry.
+COMP_0036,Accenture,Non-profit,startup,Agra,8.4,-5.0,5.0,2017,https://accenture.com,https://linkedin.com/company/accenture,Accenture is a leading company in Non-profit industry.
+COMP_0037,Oracle,Automotive,mid,Surat,7.5,-3.5,4.1,2004,https://oracle.com,https://linkedin.com/company/oracle,Oracle is a leading company in Automotive industry.
+COMP_0038,Capgemini,Automotive,startup,Visakhapatnam,5.2,4.0,4.1,2018,https://capgemini.com,https://linkedin.com/company/capgemini,Capgemini is a leading company in Automotive industry.
+COMP_0039,JP Morgan,Fashion,large,Visakhapatnam,5.4,14.0,3.0,2005,https://jpmorgan.com,https://linkedin.com/company/jp-morgan,JP Morgan is a leading company in Fashion industry.
+COMP_0040,Cure.fit,Sports,mid,Bangalore,6.5,-2.1,3.4,1998,https://cure.fit.com,https://linkedin.com/company/cure.fit,Cure.fit is a leading company in Sports industry.
+COMP_0041,Mphasis,Automotive,startup,Surat,8.0,9.5,4.5,2008,https://mphasis.com,https://linkedin.com/company/mphasis,Mphasis is a leading company in Automotive industry.
+COMP_0042,LinkedIn,Non-profit,mid,Surat,5.9,0.1,3.8,2011,https://linkedin.com,https://linkedin.com/company/linkedin,LinkedIn is a leading company in Non-profit industry.
+COMP_0043,Adobe,Sports,startup,Jaipur,7.9,12.0,4.9,2003,https://adobe.com,https://linkedin.com/company/adobe,Adobe is a leading company in Sports industry.
+COMP_0044,Times Group,Fashion,large,Patna,8.4,-4.1,4.9,1994,https://timesgroup.com,https://linkedin.com/company/times-group,Times Group is a leading company in Fashion industry.
+COMP_0045,LTI,Media & Entertainment,mid,Mumbai,7.3,-3.2,3.2,2003,https://lti.com,https://linkedin.com/company/lti,LTI is a leading company in Media & Entertainment industry.
+COMP_0046,Network18,Education,mid,Bangalore,8.5,11.6,3.3,2011,https://network18.com,https://linkedin.com/company/network18,Network18 is a leading company in Education industry.
+COMP_0047,Kotak Mahindra Bank,Travel & Tourism,large,Jaipur,7.5,5.8,3.8,2007,https://kotakmahindrabank.com,https://linkedin.com/company/kotak-mahindra-bank,Kotak Mahindra Bank is a leading company in Travel & Tourism industry.
+COMP_0048,Mindtree,Media & Entertainment,startup,Vadodara,7.2,-2.3,4.5,2012,https://mindtree.com,https://linkedin.com/company/mindtree,Mindtree is a leading company in Media & Entertainment industry.
+COMP_0049,Byju's,Real Estate,mid,Ludhiana,6.3,22.4,4.0,1990,https://byju's.com,https://linkedin.com/company/byju's,Byju's is a leading company in Real Estate industry.
+COMP_0050,Zomato,E-commerce,mid,Hyderabad,9.0,20.2,4.0,1997,https://zomato.com,https://linkedin.com/company/zomato,Zomato is a leading company in E-commerce industry.
+COMP_0051,McKinsey,Gaming,large,Kolkata,7.1,1.3,3.0,1994,https://mckinsey.com,https://linkedin.com/company/mckinsey,McKinsey is a leading company in Gaming industry.
+COMP_0052,Sony,Media & Entertainment,large,Delhi,5.4,6.4,3.4,1991,https://sony.com,https://linkedin.com/company/sony,Sony is a leading company in Media & Entertainment industry.
+COMP_0053,Amazon India,Non-profit,large,Ludhiana,5.3,17.5,4.9,2014,https://amazonindia.com,https://linkedin.com/company/amazon-india,Amazon India is a leading company in Non-profit industry.
+COMP_0054,Infosys,Technology,large,Ghaziabad,7.4,18.1,3.3,2009,https://infosys.com,https://linkedin.com/company/infosys,Infosys is a leading company in Technology industry.
+COMP_0055,Wipro,Technology,large,Nagpur,7.2,9.3,4.2,2013,https://wipro.com,https://linkedin.com/company/wipro,Wipro is a leading company in Technology industry.
+COMP_0056,Tech Mahindra,Non-profit,mid,Pimpri-Chinchwad,7.3,21.7,3.2,2012,https://techmahindra.com,https://linkedin.com/company/tech-mahindra,Tech Mahindra is a leading company in Non-profit industry.
+COMP_0057,Twitter,Automotive,startup,Vadodara,5.6,12.0,3.4,1990,https://twitter.com,https://linkedin.com/company/twitter,Twitter is a leading company in Automotive industry.
+COMP_0058,Netflix,Travel & Tourism,mid,Patna,5.2,25.0,3.7,1994,https://netflix.com,https://linkedin.com/company/netflix,Netflix is a leading company in Travel & Tourism industry.
+COMP_0059,Deutsche Bank,Manufacturing,startup,Jaipur,6.1,20.3,3.2,1998,https://deutschebank.com,https://linkedin.com/company/deutsche-bank,Deutsche Bank is a leading company in Manufacturing industry.
+COMP_0060,Cognizant,Finance,mid,Agra,6.2,3.5,3.6,2006,https://cognizant.com,https://linkedin.com/company/cognizant,Cognizant is a leading company in Finance industry.
+COMP_0061,KPMG,Non-profit,mid,Ghaziabad,9.0,20.5,3.7,2009,https://kpmg.com,https://linkedin.com/company/kpmg,KPMG is a leading company in Non-profit industry.
+COMP_0062,HCL Technologies,Technology,large,Hyderabad,8.0,6.5,4.9,1999,https://hcltechnologies.com,https://linkedin.com/company/hcl-technologies,HCL Technologies is a leading company in Technology industry.
+COMP_0063,Apple,Technology,large,Lucknow,9.0,12.3,3.3,2006,https://apple.com,https://linkedin.com/company/apple,Apple is a leading company in Technology industry.
+COMP_0064,Swiggy,E-commerce,mid,Kolkata,8.3,18.4,4.7,1990,https://swiggy.com,https://linkedin.com/company/swiggy,Swiggy is a leading company in E-commerce industry.
+COMP_0065,IBM,Media & Entertainment,mid,Bhopal,5.9,7.9,3.9,1991,https://ibm.com,https://linkedin.com/company/ibm,IBM is a leading company in Media & Entertainment industry.
+COMP_0066,Bain,Manufacturing,large,Patna,8.1,24.4,4.8,2006,https://bain.com,https://linkedin.com/company/bain,Bain is a leading company in Manufacturing industry.
+COMP_0067,Myntra,Real Estate,startup,Lucknow,7.3,20.1,4.7,2004,https://myntra.com,https://linkedin.com/company/myntra,Myntra is a leading company in Real Estate industry.
+COMP_0068,Zee,Sports,startup,Bhopal,6.0,4.1,3.0,1996,https://zee.com,https://linkedin.com/company/zee,Zee is a leading company in Sports industry.
+COMP_0069,Flipkart,E-commerce,mid,Nashik,8.9,24.7,4.5,2006,https://flipkart.com,https://linkedin.com/company/flipkart,Flipkart is a leading company in E-commerce industry.
+COMP_0070,BCG,Food & Beverage,startup,Mumbai,5.9,9.3,4.3,2010,https://bcg.com,https://linkedin.com/company/bcg,BCG is a leading company in Food & Beverage industry.
+COMP_0071,HDFC Bank,E-commerce,mid,Nashik,8.0,24.9,4.9,2005,https://hdfcbank.com,https://linkedin.com/company/hdfc-bank,HDFC Bank is a leading company in E-commerce industry.
+COMP_0072,PolicyBazaar,Fashion,startup,Patna,6.9,21.7,3.2,2003,https://policybazaar.com,https://linkedin.com/company/policybazaar,PolicyBazaar is a leading company in Fashion industry.
