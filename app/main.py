@@ -310,7 +310,6 @@ def get_student_recommendations(request: RecommendationRequest):
             # Check if this is an enhanced recommendation with metadata
             if "application_deadline" in rec_data:
                 # Create enhanced InternshipRecommendation object
-                from datetime import datetime
                 try:
                     deadline = datetime.strptime(rec_data["application_deadline"], "%Y-%m-%d").date()
                 except (ValueError, TypeError):
